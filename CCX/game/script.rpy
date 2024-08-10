@@ -5,8 +5,8 @@ define Sabino = Character('Capitán Gentile', color="#000FFF")
 #Inicio del juego - Modulo 1 - introduccion a la aviacion comercial y a la funcion del tcp
 label start:
 
-image colegio = "background1.png"
-scene colegio
+image sala = "background1.png"
+scene sala
 
 image iMarina = "crew1.png"
 show iMarina
@@ -154,3 +154,73 @@ hide iMarina
 with dissolve
 
 #Modulo 4 - procedimientos de rutina, obligaciones y repsonsabilidades
+
+image iSabino = "crew2.png"
+show iSabino
+with fade
+
+Sabino "Buenos dias a todos, y bienvenidos al módulo de conocimientos básicos de aeronaves y motores."
+Sabino "Mi nombre es Sabino Gentile, y desempeño el rol de Capitán de formación en Sky-Blue Airlines, a mas de 15 años. Anteriormente era oficial de la fuerza aérea."
+Sabino "Estoy muy feliz de ver tantos jóvenes interesados en el mundo de la aeronáutica."
+Sabino "Como ya les habrá mencionado mi colega Marina, es un estilo de vida que se lleva con mucho honor, dado a que conforman una parte escencial en la conexión intercultural del mundo."
+Sabino "Y se debe desempeñar con un gran sentido de responsabilidad."
+Sabino "En los 75 años de funcionamiento de nuestra aerolinea, nunca hemos tenido ningún accidente en un vuelo comercial."
+Sabino "Y porque sabemos que gran parte de los accidentes se producen por errores humanos, no nos permitimos formar profesionales menos que excelentes."
+Sabino "Los errores fatales están muy ligados al valor que se le da a la vida en la cultura empresarial, y en general."
+Sabino "Trabajar en la aeronáutica muchas veces implica cumplir funciones de alto riesgo. Y para ello vamos a darles todas las herramientas para que puedan vivir y disfrutar a pleno este trabajo, que tan hermoso es, sin preocuparse por nada mas."
+Sabino "Volar por el mundo es un privilegio, y vivir de ello es invaluable."
+Sabino "Sin mas preambulos, comencemos."
+Sabino "Aunque los Tripulantes de Cabina de Pasajeros no están encargados del pilotaje ni del mantenimiento técnico de la aeronave, se espera que tengan conocimientos básicos sobre el funcionamiento de las aeronaves y sus motores. Este conocimiento es esencial para entender mejor las operaciones del vuelo, la seguridad a bordo, y para manejar situaciones de emergencia de manera eficaz."
+Sabino "Empezaremos por las partes principales de una aeronave."
+Sabino "El fuselaje: Es el cuerpo principal de la aeronave donde se encuentra la cabina de pasajeros, la cabina de mando, la bodega de carga y otros compartimentos."
+Sabino "Las alas: Proveen la sustentación necesaria para que la aeronave vuele. Los TCPs deben conocer la ubicación de las salidas de emergencia sobre las alas y cómo utilizarlas en caso de evacuación."
+Sabino "El empenaje: Conjunto de superficies en la parte trasera de la aeronave que incluye la cola, el estabilizador vertical (timón) y el estabilizador horizontal (elevadores), responsables de la estabilidad y control en el eje vertical y horizontal."
+Sabino "Los motores: Se encargan de proporcionar la propulsión para el vuelo. Los TCPs deben tener una comprensión básica de cómo funcionan y qué ruidos o comportamientos son normales o anormales durante el vuelo."
+Sabino "El tren de aterrizaje: Conjunto de ruedas y amortiguadores que permiten el despegue y aterrizaje. Los TCPs deben conocer su funcionamiento básico, como el tiempo durante el cual debe estar desplegado o retraído durante estas maniobras."
+Sabino "Todos estos son los componentes básicos que ustedes deben aprender a reconocerlos fácilmente. En caso de que, por ejemplo, vean fuego en un ala en el despegue, sepan que quizás venga desde el motor de turbina y puedan notificar la información correcta."
+Sabino "Anotaron lo necesario? Bien, seguimos."
+Sabino "Además de las partes de la aeronave, es indispensable que sepan el funcionamiento básico de los motores y a diferenciarlos entre los diferentes tipos que existen."
+Sabino "Existen los motores de Turbina (también llamados Jets). Los aviones comerciales modernos suelen estar equipados con motores de turbina, que funcionan tomando aire, comprimiéndolo, mezclándolo con combustible y quemándolo para generar empuje."
+Sabino "Existen los motores de Pistón (comúnes en Aviación General). Aunque menos comunes en aviones comerciales grandes, los TCPs pueden estar expuestos a aeronaves más pequeñas con motores de pistón, que funcionan de manera similar a los motores de automóvil, utilizando cilindros para generar movimiento mecánico."
+Sabino "Los TCPs deben estar familiarizados con los ruidos normales asociados con el funcionamiento del motor, como el aumento de la potencia durante el despegue o la reducción durante el aterrizaje. Deberían poder identificar ruidos o vibraciones inusuales que puedan indicar un problema."
+Sabino "También tienen que tener en cuenta los sistemas principales del avión."
+Sabino "El sistema electrico proporciona energía para la iluminación, los sistemas de entretenimiento, los equipos de comunicación y otros sistemas críticos. Es importante que los TCPs comprendan qué hacer en caso de un fallo eléctrico, como el uso de iluminación de emergencia."
+Sabino "El sistema hidráulico controla los sistemas que requieren una gran cantidad de fuerza, como el tren de aterrizaje, los frenos y las superficies de control de vuelo. Conocer las ubicaciones de los componentes hidráulicos es útil en caso de emergencias que afecten estas áreas."
+Sabino "Los sistemas de presurización y aire acondicionado mantienen la presión y el aire en niveles seguros y confortables dentro de la cabina. Los TCPs deben estar capacitados para actuar en caso de una despresurización, utilizando las máscaras de oxígeno y asegurando que los pasajeros también lo hagan."
+Sabino "Y el sistema de combustible que distribuye el combustible a los motores de manera uniforme. Los TCPs deben tener conocimientos sobre la seguridad del combustible, especialmente en situaciones de emergencia como fuego a bordo."
+Sabino "Ahora, que sucede en caso de que alguno de estos sistemas o partes del avión no funcionen correctamente? Para ello, tenemos procedimientos de emergencia relacionados a las aeronaves y motores correspondientes."
+Sabino "Hay que saber cómo manejar una despresurización repentina, incluida la activación de las máscaras de oxígeno y la instrucción a los pasajeros sobre su uso."
+Sabino "Los TCPs deben estar preparados para las posibles consecuencias de un fallo de motor, como un aterrizaje de emergencia, y cómo deben asistir en tales situaciones."
+Sabino "Deben tener conocimiento de los procedimientos para manejar incendios en motores o en la cabina, incluyendo el uso de extintores y la coordinación con la cabina de mando."
+Sabino "Y entender cómo la configuración de la aeronave afecta los procedimientos de evacuación y cómo guiar a los pasajeros hacia las salidas de emergencia de manera segura y rápida."
+Sabino "Todo esto deben aprenderlo para poder solucionar cualquier incidiente dentro del avión, con ayuda de sus colegas de TCPs y una comunicación asertiva con la tripulación técnica."
+Sabino "Los TCPs deben conocer la terminología básica utilizada por los pilotos y el personal técnico para poder comunicarse de manera efectiva durante las operaciones regulares y en situaciones de emergencia."
+Sabino "Saber cómo y cuándo informar sobre anomalías observadas, como ruidos inusuales, vibraciones, o comportamiento extraño de los pasajeros que podría afectar la seguridad del vuelo."
+Sabino "Este conocimiento técnico básico no solo ayuda a los TCPs a desempeñar mejor sus funciones diarias, sino que es crucial en situaciones de emergencia, donde una comprensión de los sistemas de la aeronave puede ser la diferencia entre una respuesta efectiva y una situación peligrosa. Además, este conocimiento les permite brindar información precisa y tranquilizadora a los pasajeros en momentos críticos, lo que es fundamental para mantener la calma y la seguridad a bordo."
+Sabino "Bueno, eso ha sido todo por hoy. Espero que la clase les haya dado una idea un poco mas técnica del desempeño de sus futuras tareas."
+Sabino "Como terminamos muy sobre la hora, les daré unos 20 minutos de descanso y para que puedan repasar sus apuntes. Marina en breve vendrá a dictar la prueba del dia de hoy. Mucha suerte a todos! Espero que hayan disfrutado del modulo de hoy tanto como a mi presentarlo. La clase de mañana estará a mi cargo nuevamente."
+
+hide iSabino
+with dissolve
+
+#Modulo 5 - meteorologia basica
+
+image iSabino = "crew2.png"
+show iSabino
+with fade
+
+Sabino "Buenos dias a todos. Hoy concluimos la primera semana de curso. Asi que daremos un ultimo empujon hasta el tan deseado fin de semana, que me imagino estarán esperando."
+Sabino "Como habrán visto en el calendário del curso, hoy daremos el módulo de meteorología básica."
+Sabino "El conocimiento básico de meteorología es crucial para los Tripulantes de Cabina de Pasajeros, ya que les permite entender las condiciones atmosféricas que pueden afectar el vuelo y prepararse para manejar situaciones relacionadas con el clima de manera eficaz. Aquí te presento un resumen de los conceptos meteorológicos esenciales para los TCPs."
+Sabino "Empecemos con los fundamentos de la meteorología."
+Sabino "Primero. Los TCPs deben entender que la atmósfera está compuesta por varias capas (troposfera, estratosfera, etc.), pero la mayoría de los fenómenos meteorológicos que afectan el vuelo ocurren en la troposfera, que se extiende hasta unos 12 km de altura."
+Sabino "Segundo, deben entender la presión atmosférica. Es la fuerza que el aire ejerce sobre la superficie de la Tierra. Los TCPs deben conocer que las variaciones en la presión atmosférica pueden afectar la altitud y el rendimiento de la aeronave, así como la percepción de los pasajeros, especialmente durante el despegue y el aterrizaje."
+Sabino "Tercero y no menos importante, la temperatura. La temperatura del aire disminuye con la altitud. Este enfriamiento afecta la densidad del aire, lo que a su vez puede influir en el rendimiento del avión y la formación de fenómenos como el hielo en las alas."
+Sabino "Hasta aquí todo claro? Pues, seguimos."
+Sabino "Otro conjunto de factores importantes son los fenómenos meteorológicos comunes."
+Sabino "Como por ejemplo, las turbulencias. Hoy mencionaremos dos de ellas."
+Sabino "Primero tenemos a la Turbulencia en Aire Claro (CAT). Ocurre en cielos despejados, generalmente en niveles altos, y no está asociada a nubes o tormentas. Puede ser difícil de prever, pero los TCPs deben saber cómo prepararse y preparar a los pasajeros cuando se anticipa."
+Sabino "Después, tenemos la Turbulencia Convectiva. La misma es asociada con tormentas o formaciones nubosas como cúmulos o cumulonimbos, donde las corrientes de aire ascendente y descendente causan movimientos bruscos."
+Sabino "Los TCPs deben asegurarse de que los pasajeros tengan el cinturón de seguridad abrochado cuando se anticipa turbulencia, asegurar todos los objetos sueltos en la cabina y estar preparados para suspender el servicio a bordo."
+Sabino "Otro fenomeno común es la llamada Cizalladura del Viento"
+Sabino "Es un cambio repentino en la velocidad o dirección del viento, especialmente peligroso durante el despegue y el aterrizaje. Los TCPs deben conocer su existencia, ya que puede causar movimientos bruscos o desviaciones en la trayectoria de la aeronave."
