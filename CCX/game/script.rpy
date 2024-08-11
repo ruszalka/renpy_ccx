@@ -16,7 +16,7 @@ with fade
 
 Marina "Mi nombre es Marina, y seré su principal instructora a lo largo de esta capacitación."
 Marina "Antes que nada me gustaría felicitarlos por haber sido seleccionados para esta capacitación tras un riguroso proceso. Cientos de candidatos se postulan año a año, siendo apenas unos pocos los egreados que lleguen a los estandares para volar con nosotros."
-Marina "Asi que no se preocupen. Si bien hay etapas en este proceso que son excluyentes, en caso de quedar fuera de la selección final en esta oportunidad, podrán volver a postularse luego de dos meses tantas veces como quieran."
+Marina "Asi que no se preocupen. Si bien hay etapas en este proceso que son excluyentes, en caso de quedar fuera de la selección final en esta oportunidad, podrán volver a postularse luego de seis meses tantas veces como quieran."
 Marina "La capacitación inicial dentro de la aerolinea tiene una duración total de un mes, donde aprenderán todo lo necesário tanto a nivel práctico como técnico y legal, para tripular con tranquilidad y garantizar un vuelo seguro a otros."
 Marina "Durante este periodo, estaremos viendo un módulo por dia, con una prueba al final de cada módulo. Esta instancia es excluyente, solo serán aptos para volver al siguiente dia quienes hayan aprobado la prueba anterior."
 Marina "Parece exigente y realmente lo es. En Sky-Blue Airlines no escatimamos recursos para mantener nuestros estandares de excelencia."
@@ -244,4 +244,58 @@ Sabino "En caso de condiciones meteorologicas adversas, debemos apoyarnos en nue
 Sabino "Antes de entrar en una zona de turbulencia o mal tiempo, los TCPs deben asegurar todo en la cabina, advertir a los pasajeros sobre la necesidad de abrocharse el cinturón y, si es necesario, suspender el servicio a bordo."
 Sabino "Mantener una comunicación constante con la cabina de mando sobre las condiciones meteorológicas y seguir sus instrucciones en todo momento."
 Sabino "En casos extremos, como despresurización o impactos de rayos, los TCPs deben estar preparados para seguir los procedimientos de emergencia, incluyendo el uso de máscaras de oxígeno y la coordinación de una posible evacuación."
-Sabino "Estos conocimientos permiten a los TCPs manejar de manera efectiva cualquier situación relacionada con las condiciones meteorológicas, garantizando la seguridad y el confort de los pasajeros durante el vuelo."
+Sabino "Estos conocimientos permiten a los TCPs manejar de manera efectiva cualquier situación relacionada con las condiciones meteorológicas, garantizando la seguridad y el confort de los pasajeros durante el vuelo." 
+
+hide iSabino
+with dissolve
+
+#Modulo 6 - CRM Crew Resource MAgnament
+
+image iMarina = "crew1.png"
+show iMarina
+with fade
+
+Marina "Buenos dias a todos."
+Marina "Espero hayan disfrutado de las clases del jueves y viernes con el Capitán Gentile."
+Marina "Sabino Gentile es de las personas que mas tiempo han estado dentro de la companía en su rol."
+Marina "Ha instruido a generaciones de excelentes profesionales. Inclusve a mi."
+Marina "El día que empiecen a volar con nosotros, entenderán que es un referente, sobre todo para los nuevos ingresos."
+Marina "Más allá de ello, espero que también hayan podido disfrutar de su primer fin de semana, trás un arduo entrenamiento."
+Marina "Que hayan podido aprovechar para distenderse, y sobre todo, estudiar mas."
+Marina "Si realmente desean esta posición, sabrán aprovechar cada instante, y el entrenamiento terminará antes de que puedan darse cuenta."
+Marina "El dia de hoy hablaremos del CRM y sus implicaciones."
+Marina "Saquen lápiz y papel, que hoy vamos a anotar mucho."
+Marina "El Crew Resource Management (CRM), o Gestión de los Recursos de la Tripulación, es un conjunto de procedimientos de capacitación diseñados para mejorar la seguridad en la aviación mediante la promoción de una comunicación efectiva, la toma de decisiones, la resolución de problemas, y la coordinación entre todos los miembros de la tripulación, incluidos los pilotos, los Tripulantes de Cabina de Pasajeros (TCPs), y otros miembros del equipo."
+Marina "Para los TCPs, el CRM es esencial porque su rol va más allá de atender a los pasajeros; son una parte crítica de la tripulación en la gestión de situaciones normales y de emergencia. El CRM ayuda a los TCPs a interactuar de manera efectiva con el resto de la tripulación y a contribuir a la seguridad del vuelo."
+Marina "En Sky-Blue Airlines, lo dividimos en seis pilares principales."
+Marina "El primero, la comunicación efectiva."
+Marina "Efectiva en el intercambio de información. Los TCPs deben comunicarse clara y efectivamente con la cabina de mando y otros miembros de la tripulación. Esto incluye la capacidad de proporcionar información relevante de manera concisa y asegurarse de que los mensajes se entienden correctamente."
+Marina " Y ademas tener escucha activa. Es crucial que los TCPs escuchen con atención y respondan apropiadamente a las instrucciones y la información proporcionada por la cabina de mando y otros miembros de la tripulación."
+Marina "El pilar número dos es la conciencia situacional."
+Marina "Este pilar se constituye de entender el entorno operacional. Los TCPs deben estar al tanto de las condiciones del vuelo, las posibles amenazas y las situaciones anómalas. Mantener una alta conciencia situacional significa estar siempre atentos a lo que sucede a bordo y estar preparados para actuar."
+Marina "Y segundo pero no menos importante, reconocer indicadores de problemas. Esto incluye identificar señales de comportamiento inusual en los pasajeros, posibles riesgos de seguridad, o indicios de que algo podría no estar funcionando correctamente en la aeronave."
+Marina "El tercer pilar está compuesto por la toma de decisiones."
+Marina "Que implica en una parte, la evaluación de opciones. Evaluación de Opciones. Los TCPs deben ser capaces de evaluar rápidamente las opciones disponibles durante una situación de emergencia o conflicto y decidir cuál es la mejor acción a tomar."
+Marina "Y por otra parte, el uso del juicio profesional. Esto implica aplicar el conocimiento y la experiencia de manera que se priorice siempre la seguridad de los pasajeros y la tripulación."
+Marina "Nuestro cuarto pilar es el trabajo en equipo y coordinación."
+Marina "Colaborar con el resto de la tripulación es muy importante. Los TCPs deben trabajar en estrecha colaboración con los pilotos, otros TCPs y, en ocasiones, con el personal de tierra, especialmente en situaciones que requieren una respuesta coordinada, como evacuaciones de emergencia."
+Marina "Y ni que hablar del apoyo mutuo. Los TCPs deben estar dispuestos a ayudar y apoyar a sus compañeros de tripulación, compartiendo información y responsabilidades cuando sea necesario."
+Marina "El quinto pilar es para mi el mas dificil, que es la gestión del estrés."
+Marina "Es crucial poder mantener la calma bajo presión. Los TCPs deben poder manejar el estrés de manera efectiva, especialmente durante situaciones de emergencia, para tomar decisiones claras y racionales."
+Marina "Y dentro de este pilar también aprenderemos técnicas de relajación. Es útil que los TCPs conozcan y apliquen técnicas para reducir el estrés, tanto para ellos mismos como para tranquilizar a los pasajeros."
+Marina "Nuestro último pilar está compuesto por diferentes items referentes a la resolución de conflictos."
+Marina "El primero sería el manejo de pasajeros conflictivos. El CRM incluye técnicas para manejar y desescalar conflictos con pasajeros, asegurando que el vuelo se mantenga seguro y que las situaciones potencialmente peligrosas se resuelvan de manera adecuada."
+Marina "Y la negociación y persuasión. Los TCPs deben ser capaces de utilizar la persuasión y la negociación para obtener la cooperación de los pasajeros en situaciones difíciles."
+Marina "Y bien, que les ha parecido? Son bastantes cosas que recordar, pero considero que todas ellas bastante intuitivas, una vez que entiendes el trabajo del TCP."
+Marina "Ahora veremos la aplicación del CMR en situaciones reales."
+Marina "Evacuaciones de Emergencia: En caso de una evacuación de emergencia, el CRM asegura que todos los miembros de la tripulación trabajen juntos de manera eficiente, siguiendo los procedimientos establecidos y comunicándose constantemente para asegurar que todos los pasajeros salgan del avión de manera segura."
+Marina "Incidentes de Salud a Bordo: Si un pasajero sufre una emergencia médica, los TCPs deben coordinarse con los pilotos, otros TCPs, y, si es necesario, con el personal médico en tierra. Aquí, la comunicación efectiva y la toma rápida de decisiones son esenciales."
+Marina "Turbulencia o Mal Tiempo: Durante turbulencia severa o condiciones meteorológicas adversas, los TCPs deben aplicar el CRM para asegurar que todos los pasajeros están seguros, comunicarse con la cabina de mando sobre las condiciones en la cabina, y coordinar cualquier acción necesaria para mantener la seguridad."
+Marina "El CRM trae muchisimos beneficios para todos los TCPs, porque sistematiza procesos que son dificiles de deducir en situaciones complejas. El poder organizar estas practicas mentalmente nos ayuda a recordarlas."
+Marina "Ni que hablar como mejoran la seguridad del vuelo. Al promover la comunicación y la coordinación efectiva, el CRM reduce el riesgo de errores humanos y mejora la respuesta de la tripulación en situaciones críticas."
+Marina "Aumenta la Eficiencia Operacional. Una tripulación que utiliza CRM de manera efectiva puede manejar situaciones inesperadas de manera más fluida, minimizando interrupciones y asegurando un vuelo más eficiente."
+Marina "Fortalece el Trabajo en Equipo. El CRM fomenta un ambiente de trabajo en equipo, donde todos los miembros de la tripulación se apoyan mutuamente y trabajan juntos hacia un objetivo común: la seguridad y el éxito del vuelo."
+Marina "El CRM es, por lo tanto, una herramienta fundamental para los TCPs, ayudándolos a desempeñar su papel de manera efectiva y asegurando que contribuyen positivamente a la seguridad y el bienestar de todos a bordo."
+
+hide iMarina
+with dissolve
