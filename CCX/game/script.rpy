@@ -2,8 +2,34 @@
 define Marina = Character('Instructora Marina', color="#FFF000")
 define Sabino = Character('Capitán Gentile', color="#000FFF")
 
-#Inicio del juego - Modulo 1 - introduccion a la aviacion comercial y a la funcion del tcp
+#Inicio del juego 
 label start:
+image arbol = "bg-tree.bg"
+scene arbol
+
+"Todo comenzó en la pandemia"
+"No porque haya cambiado nada estructuralmente, mas bien todo lo contrario"
+"Darme cuenta que venia llevando los ultimos años de mi vida como una persona en confinamiento, me hizo pensar lo poco que aprovechaba mi libertad cuando la tenia."
+"Al principio pensaba que sería tarea fácil, el no tener que inventar excusas para cancelar planes y no salir bajaba mucho la fricción de mis interacciones sociales"
+"A final de cuenta, todos estabamos resguardados."
+"Pero a las pocas semanas, levantarme y solo sentarme a la compu para trabajar y distenderme, empezó a pesar."
+"Mi propio hogar era mi prisión y la razón de mi emergente claustrofobia"
+"Los meses que tuve mis movimientos restringidos a 75 metros cuadrados, pero esta vez contra mi voluntad, me hicieron darme cuenta de lo que necesitaba."
+"Necesitaba salir al mundo"
+"Empece a ver videos de otros lugares, en principio para entender como lo estaban viviendo los demas, después simplemente para ver como vivian sus vidas alli"
+"Y termine en un bucle de videos de azafatas que habian sido despedidas, tambien por la pandemia"
+"Y como extrañaban sus vidas a 40.000 pies de altura"
+"Creo que desde que todo volvió a la normalidad, nadie enteramente lo hizo"
+"Y por esa misma razón, me inscribí al proceso de selección de azafatas de la mayor aerolinea de mi pais"
+"El mundo empieza a curarse, y las aerolineas retoman el viaje en sus rutas aereas"
+"Quiero saber si estoy preparada para esa vida"
+"Preparada para conocer al mundo"
+
+scene arbol
+with dissolve
+
+#- Modulo 1 - introduccion a la aviacion comercial y a la funcion del tcp
+
 
 image sala = "background1.png"
 scene sala
