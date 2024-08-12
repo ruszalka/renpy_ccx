@@ -1,10 +1,11 @@
 ﻿#Personajes
-define Marina = Character('Instructora Marina', color="#FFF000")
-define Sabino = Character('Capitán Gentile', color="#000FFF")
+define Marina = Character('Instructora Marina', color="#ece580")
+define Sabino = Character('Capitán Gentile', color="#9ca1e9")
+define Daria = Character('Daria', color="#db6b6b")
 
 #Inicio del juego 
 label start:
-image arbol = "bg-tree.bg"
+image arbol = "bg-tree.png"
 scene arbol
 
 "Todo comenzó en la pandemia"
@@ -72,8 +73,14 @@ hide iMarina
 with dissolve
 
 #primera aparicion de daria
-"..."
-image iMarina = "crew1.png"
+image iDaria ="daria.png"
+show iDaria
+with fade
+Daria "..."
+
+hide iDaria
+with dissolve
+
 show iMarina
 with fade
 
@@ -98,7 +105,7 @@ with moveouttop
 
 #Modulo 2 - reglamentacion nacional e internacional
 
-image iMarina = "crew1.png"
+
 show iMarina
 with fade
 
@@ -130,7 +137,7 @@ with dissolve
 
 #Modulo 3 - procedimientos de rutina, obligaciones y repsonsabilidades
 
-image iMarina = "crew1.png"
+
 show iMarina
 with fade
 
@@ -179,9 +186,9 @@ Marina "Hagamos una pausa de unos minutos, para volver a la prueba de hoy. No pi
 hide iMarina
 with dissolve
 
-#Modulo 4 - procedimientos de rutina, obligaciones y repsonsabilidades
+#Modulo 4 - Conocimientos basicos de aeronaves y motores
 
-image iSabino = "crew2.png"
+image iSabino ="crew2.png"
 show iSabino
 with fade
 
@@ -231,7 +238,7 @@ with dissolve
 
 #Modulo 5 - meteorologia basica
 
-image iSabino = "crew2.png"
+
 show iSabino
 with fade
 
@@ -277,7 +284,7 @@ with dissolve
 
 #Modulo 6 - CRM Crew Resource MAgnament
 
-image iMarina = "crew1.png"
+
 show iMarina
 with fade
 
@@ -328,7 +335,7 @@ with dissolve
 
 #Modulo 7 - Modulo AVSEC (Seguridad en la aviación, Safety y Security)
 
-image iMarina = "crew1.png"
+
 show iMarina
 with fade
 
@@ -376,3 +383,53 @@ Marina "La principal responsabilidad de los TCPs es garantizar la seguridad de t
 Marina "Al estar capacitados en AVSEC, los TCPs pueden identificar y prevenir actos ilícitos antes de que se conviertan en amenazas, protegiendo así el vuelo y todos los involucrados."
 Marina "La capacitación en AVSEC refuerza la confianza de los TCPs en su capacidad para manejar situaciones difíciles, lo que a su vez se traduce en una mayor seguridad y tranquilidad para los pasajeros."
 Marina "En resumen, AVSEC es una parte integral del rol de los TCPs, que abarca desde la prevención de amenazas hasta la gestión de emergencias de seguridad, garantizando la protección y el bienestar de todos a bordo."
+
+hide iMarina
+with dissolve
+
+#Modulo 8 - Mercancias peligrosas
+
+
+show iMarina
+with fade
+
+Marina "Buenos dias, cómo están todos el dia de hoy?"
+Marina "Espero que estén bien."
+Marina "La clase de hoy va a ser un poco mas larga, por lo que vamos a hacer dos descansos de 20 minutos."
+Marina "El módulo de hoy es de mercancías peligrosas"
+Marina "Para los Tripulantes de Cabina de Pasajeros, el conocimiento sobre mercancías peligrosas es crucial para garantizar la seguridad a bordo. Las mercancías peligrosas son artículos o sustancias que pueden presentar un riesgo para la salud, la seguridad o la propiedad si no se manejan correctamente."
+Marina "Aquí te presento un resumen de los aspectos más importantes que un TCP debe conocer sobre mercancías peligrosas."
+Marina "Primero debemos entender la clasificación de mercancías peligrosas."
+Marina "Existen diferentes categorias de riesgo."
+Marina "Las mercancías peligrosas se dividen en varias categorías según el tipo de riesgo que representan. Estas categorías incluyen explosivos, gases, líquidos inflamables, sustancias tóxicas, materiales radiactivos, y otros. Conocer estas categorías ayuda a los TCPs a identificar y manejar los riesgos potenciales."
+Marina "Luego deberiamos identificar las etiquetas y marcas"
+Marina "Las mercancías peligrosas están etiquetadas con símbolos específicos que indican el tipo de peligro que representan. Los TCPs deben familiarizarse con estas etiquetas para reconocer los riesgos asociados."
+Marina "En segundo lugar, conocernos las regulaciones y documentación"
+Marina "Cómo se podrán imaginar, existen regulaciones internacionales."
+Marina "Los TCPs deben conocer las regulaciones internacionales que rigen el transporte de mercancías peligrosas, como las establecidas por la Organización de Aviación Civil Internacional (OACI) y la Asociación Internacional de Transporte Aéreo (IATA)."
+Marina "Y deben conocerse la documentación a bordo"
+Marina "Aunque no manejan directamente la documentación de mercancías peligrosas, los TCPs deben saber que se deben llevar documentos específicos que declaren la naturaleza de las mercancías peligrosas transportadas."
+Marina "Número tres, identificación y manejo a bordo"
+Marina "Los TCPs deben estar atentos a las etiquetas y advertencias en el equipaje y los contenedores de carga que indiquen la presencia de mercancías peligrosas."
+Marina "Aunque la manipulación y carga de mercancías peligrosas son responsabilidad del personal de tierra y de la tripulación técnica, los TCPs deben conocer los procedimientos para reportar cualquier sospecha o incidencia relacionada con mercancías peligrosas."
+Marina "En cuarto lugar, deben aprender los procedimientos en caso de incidente"
+Marina "Los TCPs deben estar capacitados en los procedimientos específicos a seguir en caso de un incidente relacionado con mercancías peligrosas, como derrames, fugas, o incendios. Esto incluye"
+Marina "En primer lugar, la tan renombrada evacuación"
+Marina "Conocer cómo evacuar la cabina de manera segura si se detecta un peligro relacionado con mercancías peligrosas."
+Marina "También es importante saber usar los equipos de seguridad"
+Marina "Saber cómo utilizar los equipos de seguridad a bordo, como extinguidores de incendios, y aplicar los procedimientos de emergencia según el tipo de mercancía peligrosa involucrada."
+Marina "Y saber hacer reportes. Informar inmediatamente a la cabina de mando y seguir sus instrucciones para manejar la situación de manera efectiva."
+Marina "Pasando a la quinta sección, llegamos a la capacitación y procedimientos estándar"
+Marina "Empezamos por la capacitación regular"
+Marina "Los TCPs deben recibir capacitación regular sobre la identificación y el manejo de mercancías peligrosas. Esta capacitación incluye simulacros y estudios de casos para prepararse para situaciones de emergencia."
+Marina "Y los procedimientos de la aerolinea"
+Marina "Deben seguir los procedimientos específicos de su aerolínea para el manejo de mercancías peligrosas, que incluyen las directrices para la identificación, la notificación y la gestión de emergencias."
+Marina "Llegamos a la sexta sección, la comunicación y coordinación"
+Marina "Coordinación con la tripulación"
+Marina "Los TCPs deben mantener una comunicación eficaz con la cabina de mando y otros miembros de la tripulación para asegurar que se sigan los procedimientos adecuados en caso de un incidente con mercancías peligrosas."
+Marina "Comunicación con los pasajeros"
+Marina "Aunque no son responsables de manejar mercancías peligrosas directamente, los TCPs deben estar preparados para comunicar a los pasajeros la información relevante y las instrucciones durante una emergencia relacionada con mercancías peligrosas."
+Marina "Y la ultima sección de esta primera parte"
+Marina "Llegamos a la revisión de políticas y procedimientos"
+Marina "Aqui tenemos un unico punto, la actualización de información."
+Marina "Los TCPs deben mantenerse actualizados sobre cualquier cambio en las políticas y procedimientos relacionados con el transporte de mercancías peligrosas, ya que estas regulaciones pueden cambiar con el tiempo."

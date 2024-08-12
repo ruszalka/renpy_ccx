@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 4: end of line expected.
-    scene background1.png
-                     ^
+File "game/script.rpy", line 76: end of line expected.
+    show iDaria ="daria.png"
+                ^
 
 Ren'Py Version: Ren'Py 8.2.3.24061702
-Sat Aug 10 13:28:47 2024
+Mon Aug 12 12:19:14 2024
