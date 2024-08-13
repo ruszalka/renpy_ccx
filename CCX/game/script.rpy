@@ -433,3 +433,73 @@ Marina "Y la ultima sección de esta primera parte"
 Marina "Llegamos a la revisión de políticas y procedimientos"
 Marina "Aqui tenemos un unico punto, la actualización de información."
 Marina "Los TCPs deben mantenerse actualizados sobre cualquier cambio en las políticas y procedimientos relacionados con el transporte de mercancías peligrosas, ya que estas regulaciones pueden cambiar con el tiempo."
+Marina "Y bien, hasta aqui la primera parte del dia de hoy, nos tomamos un descanso y volvemos en 20 minutos"
+
+hide iMarina
+with dissolve
+
+show iDaria
+with fade
+Daria "..."
+
+hide iDaria
+with dissolve
+
+Marina "Bienvenidos de nuevo a la segunda parte del dia de hoy."
+Marina "En esta segunda parte vamos a hablar del conocimiento de mercancías peligrosas para los TCPs"
+Marina "El conocimiento sobre mercancías peligrosas permite a los TCPs tomar medidas rápidas y efectivas para prevenir y manejar situaciones peligrosas, protegiendo a los pasajeros y a la tripulación."
+Marina "Los TCPs deben estar preparados para manejar emergencias relacionadas con mercancías peligrosas, lo que puede minimizar el riesgo y los daños potenciales."
+Marina "Cumplir con las regulaciones de seguridad para el transporte de mercancías peligrosas es esencial para el funcionamiento seguro de las operaciones aéreas y para la protección de todos los involucrados en el vuelo."
+Marina "En resumen, aunque los TCPs no manejan directamente las mercancías peligrosas, su conocimiento y preparación en este tema son esenciales para garantizar una respuesta segura y efectiva en caso de incidentes relacionados."
+Marina "En la aviación, las mercancías peligrosas se clasifican en varias categorías basadas en los riesgos que representan para la seguridad del vuelo, la salud de las personas y la integridad de la aeronave."
+Marina "Estas categorías están definidas por las regulaciones internacionales, como las establecidas por la Organización de Aviación Civil Internacional (OACI) y la Asociación Internacional de Transporte Aéreo (IATA)."
+Marina "Aquí tienes una lista de las categorías de mercancías peligrosas más comunes"
+Marina "Explosivos"
+Marina "Son todos aquellos materiales o sustancias que pueden explotar bajo ciertas condiciones, como explosivos, fuegos artificiales y municiones."
+Marina "Ejemplos: Dynamita, petardos, municiones."
+Marina "Gases"
+Marina "Son todas aquellas sustancias que se encuentran en estado gaseoso a temperatura y presión normales o que se convierten en gas bajo condiciones normales."
+Marina "Dentro de esta categoría estan los gases comprimidos"
+Marina "Gases almacenados a alta presión, como oxígeno y nitrógeno."
+Marina "Los gases refrigerados"
+Marina "Gases que se convierten en líquido a bajas temperaturas, como el propano."
+Marina "Gases tóxicos y corrosivos"
+Marina "Gases que pueden ser perjudiciales para la salud o corrosivos para materiales."
+Marina "Algunos ejemplos, Oxígeno líquido, dióxido de carbono, cloro."
+Marina "Tercero, liquidos inflamables"
+Marina "Líquidos que pueden encenderse fácilmente a temperatura ambiente."
+Marina "Cuarto, solidos inflamables"
+Marina "Sustancias sólidas que pueden causar fuego a través de una reacción química o que son fácilmente inflamables."
+Marina "Ejemplos: Azufre, fósforos, magnesio."
+Marina "Están anotando todo? lo van a necesitar para el test de hoy"
+Marina "Bien, seguimos"
+Marina "Sustancias Combustibles"
+Marina "Sustancias que son capaces de arder y generar calor en ciertas condiciones."
+Marina "Ejemplos: Aceites, grasas, productos químicos industriales."
+Marina "Sustancias Tóxicas e Infecciosas"
+Marina "Sustancias que pueden causar daño a la salud humana o animal, o que contienen agentes infecciosos."
+Marina "De las cuales existen dos categorias"
+Marina "Sustancias tóxicas, que pueden causar efectos adversos graves en la salud si se inhalan, ingieren o tocan."
+Marina "Y sustancias infecciosas, que contienen patógenos que pueden causar enfermedades."
+Marina "Ejemplos: Productos químicos tóxicos, muestras biológicas para laboratorio."
+Marina "Materiales Radiactivos"
+Marina "Son todos aquellos materiales que emiten radiación ionizante y pueden ser perjudiciales para la salud y el medio ambiente."
+Marina "Ejemplos, uranio, cesio, materiales usados en equipos médicos."
+Marina "Corrosivos"
+Marina "Sustancias que pueden corroer o destruir materiales vivos o no vivos."
+Marina "Ejemplos, Ácidos fuertes (como el ácido sulfúrico), bases (como el hidróxido de sodio)."
+Marina "Otros Materiales Peligrosos"
+Marina "Cualquier otra sustancia o material que, aunque no encaje en las categorías anteriores, presenta un riesgo para la seguridad y debe ser manejado con cuidado."
+Marina "Materiales que podrían no estar específicamente clasificados pero que son peligrosos bajo ciertas condiciones."
+Marina "Clasificación y Etiquetado"
+Marina "Cada tipo de mercancía peligrosa tiene etiquetas específicas que indican el tipo de riesgo que presenta."
+Marina "Estas etiquetas incluyen símbolos y colores que deben ser reconocidos por todos los miembros de la tripulación para garantizar una respuesta adecuada."
+Marina "Regulaciones y Directrices"
+Marina "Las mercancías peligrosas en aviación están reguladas por:"
+Marina "ICAO (Organización de Aviación Civil Internacional): A través del Technical Instructions for the Safe Transport of Dangerous Goods by Air (TIs)."
+Marina "IATA (Asociación Internacional de Transporte Aéreo): Con el IATA Dangerous Goods Regulations (DGR), que proporciona directrices para el transporte seguro de mercancías peligrosas en la aviación."
+Marina "Estos regulaciones aseguran que las mercancías peligrosas se manejen, transporten y carguen de manera segura para minimizar los riesgos durante el vuelo. Los TCPs deben estar familiarizados con estas categorías para identificar y manejar cualquier posible incidente relacionado con mercancías peligrosas que puedan ocurrir a bordo."
+
+
+hide iMarina
+with dissolve
