@@ -445,6 +445,9 @@ Daria "..."
 hide iDaria
 with dissolve
 
+show iMarina
+with fade
+
 Marina "Bienvenidos de nuevo a la segunda parte del dia de hoy."
 Marina "En esta segunda parte vamos a hablar del conocimiento de mercancías peligrosas para los TCPs"
 Marina "El conocimiento sobre mercancías peligrosas permite a los TCPs tomar medidas rápidas y efectivas para prevenir y manejar situaciones peligrosas, protegiendo a los pasajeros y a la tripulación."
@@ -500,6 +503,59 @@ Marina "ICAO (Organización de Aviación Civil Internacional): A través del Tec
 Marina "IATA (Asociación Internacional de Transporte Aéreo): Con el IATA Dangerous Goods Regulations (DGR), que proporciona directrices para el transporte seguro de mercancías peligrosas en la aviación."
 Marina "Estos regulaciones aseguran que las mercancías peligrosas se manejen, transporten y carguen de manera segura para minimizar los riesgos durante el vuelo. Los TCPs deben estar familiarizados con estas categorías para identificar y manejar cualquier posible incidente relacionado con mercancías peligrosas que puedan ocurrir a bordo."
 
-
 hide iMarina
 with dissolve
+
+
+#Modulo 9 - Procedimientos de emergencia
+
+show iMarina
+with fade
+
+Marina "Buenos dias a todos"
+Marina "Hoy vamos a profundizar en los procedimientos de emergencia que venimos hablando las últimas clases"
+Marina "Algunos de ellos los vamos intentar en nuestra semana de prácticas"
+Marina "Pero hasta entonces, saquen lapiz y papel que vamos a comenzar"
+Marina "Los procedimientos de emergencia para los Tripulantes de Cabina de Pasajeros (TCPs) son fundamentales para garantizar la seguridad de todos a bordo en situaciones críticas."
+Marina "Estos procedimientos se dividen en diferentes categorías según el tipo de emergencia, y los TCPs deben estar bien entrenados en cada uno de ellos para responder de manera efectiva. Aquí te detallo los procedimientos de emergencia más importantes"
+Marina "Procedimientos en Caso de Evacuación de Emergencia"
+Marina "Dentro de la preparación tenemos dos puntos"
+Marina "Familiarizarse con las salidas de emergencia y las rutas de evacuación de la aeronave. Revisa los equipos y procedimientos de evacuación antes del vuelo."
+Marina "Y Asegurarse de que los equipos de evacuación, como las balsas salvavidas y los infladores, estén en buen estado y accesibles."
+Marina "Luego, dentro de las acciones tenemos varios puntos"
+Marina "En caso de evacuación, sseguir las instrucciones de la cabina de mando para hacer el anuncio. Usa el megáfono si es necesario para garantizar que todos los pasajeros escuchen las instrucciones."
+Marina "Abrir las salidas de emergencia según el procedimiento específico de la aeronave. Usa el tobogán de evacuación si está disponible."
+Marina "Dirigir a los pasajeros hacia las salidas de emergencia, asegurandose de que se mantengan calmados y sigan las instrucciones. Ayudar a los pasajeros con movilidad reducida si es necesario."
+Marina "Y por último, la verificación"
+Marina "Asegúrate de que todas las áreas de la cabina estén evacuadas antes de abandonar la aeronave."
+Marina "Tambien tenemos un grupo de procedimientos en caso de incendio a bordo"
+Marina "En cuanto a la preparación, debemos familiarizarnos con los procedimientos específicos para diferentes tipos de incendios"
+Marina "Cómo lo pueden ser incendios en la cabina, en la cocina o en el compartimiento de carga"
+Marina "La primera acción que debemos tomar es el control del fuego"
+Marina "Usar el extintor apropiado para controlar el fuego. Seguir las instrucciones del fabricante para el uso del extintor."
+Marina "Informar a la cabina de mando sobre la situación y sigue sus instrucciones."
+Marina "Si el incendio es incontrolable, prepárate para una evacuación parcial o total."
+Marina "Procedimientos en Caso de Despresurización"
+Marina "En nuestra preparación para este procedimientos debemos conocer la ubicación de las máscaras de oxígeno y cómo usarlas."
+Marina "Y familiarizarnos con los procedimientos de emergencia en caso de despresurización de la cabina"
+Marina "En las acciones debemos colocar nuestra propia máscara de oxígeno antes de ayudar a los pasajeros. Luego, asiste a los pasajeros en la colocación de sus máscaras."
+Marina "Indicar a los pasajeros cómo usar las máscaras de oxígeno y asegurarse de que estén colocadas correctamente."
+Marina "Prepárate para el descenso de emergencia si es necesario. Informa a los pasajeros sobre el procedimiento y mantén la calma."
+Marina "Procedimientos en Caso de Emergencia Médica"
+Marina "Familiarízate con el equipo médico a bordo, como el kit de primeros auxilios y el desfibrilador (AED), si está disponible."
+Marina "Evalúa la condición del pasajero y proporciona primeros auxilios básicos según sea necesario."
+Marina "Si el pasajero requiere asistencia médica avanzada, informa a la cabina de mando y solicita la ayuda de cualquier profesional médico a bordo."
+Marina "Informa a la cabina de mando y coordina con el personal médico en tierra para preparar una atención adecuada a la llegada."
+Marina "Procedimientos en Caso de Amenaza de Seguridad"
+Marina "Conoce los procedimientos de seguridad para manejar amenazas, como secuestros o bombas."
+Marina "Informa inmediatamente a la cabina de mando sobre cualquier amenaza o comportamiento sospechoso."
+Marina "Sigue las instrucciones de la cabina de mando y coordina con el resto de la tripulación para asegurar la seguridad de los pasajeros."
+Marina "Mantén la calma y asegúrate de que los pasajeros sigan las instrucciones de manera ordenada y segura."
+Marina "Procedimientos en Caso de Turbulencia Severas"
+Marina "Asegúrate de que los pasajeros estén sentados y con los cinturones de seguridad abrochados durante la turbulencia."
+Marina "Permanece sentado con el cinturón de seguridad abrochado durante la turbulencia severa. Evita moverte por la cabina a menos que sea absolutamente necesario."
+Marina "Asegúrate de que los pasajeros sigan las instrucciones para su seguridad durante la turbulencia."
+Marina "Los procedimientos de emergencia garantizan que los TCPs puedan proteger y evacuar a los pasajeros de manera segura en situaciones críticas."
+Marina "Un conocimiento claro y entrenado en los procedimientos de emergencia permite una respuesta rápida y eficiente, reduciendo el riesgo de lesiones y daños."
+Marina "Seguir los procedimientos de emergencia asegura el cumplimiento de las normativas y regulaciones de seguridad de la aviación, lo cual es esencial para la operación segura del vuelo."
+Marina "En resumen, los procedimientos de emergencia son una parte integral del entrenamiento y la responsabilidad de los TCPs. Estar bien preparado y capacitado en estos procedimientos es esencial para manejar cualquier situación de emergencia que pueda surgir durante el vuelo."
