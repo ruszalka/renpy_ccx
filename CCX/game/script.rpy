@@ -5,8 +5,9 @@ define Daria = Character('Daria', color="#db6b6b")
 
 #Inicio del juego 
 label start:
-image arbol = "bg-tree.png"
-scene arbol
+    play music "audio/background.mp3"
+    image arbol = "bg-tree.png"
+    scene arbol
 
 "Todo comenzó en la pandemia"
 "No porque haya cambiado nada estructuralmente, mas bien todo lo contrario"
@@ -36,7 +37,7 @@ image sala = "background1.png"
 scene sala
 
 image iMarina = "crew1.png"
-show iMarina
+show iMarina at left
 with fade
 
 "Bienvenidos al entrenamiento de tripulante de cabina de pasajeros de Sky-Blue Airlines."
@@ -52,7 +53,7 @@ Marina "Les sugiero que tomen nota de las siguientes informaciones porque podrá
 Marina "Todos listos? Empecemos."
 
 image PScreen ="projectionscreen.png"
-show PScreen 
+show PScreen at right
 with moveintop
 
 Marina "Todo se remonta al inicio del sigo pasado, entre 1900 y 1920, luego después de la Primera Guerra Mundial, cuando se utilizaron aviones miliates desmantelados para el transporte de correo y pasajeros."
@@ -76,12 +77,27 @@ with dissolve
 image iDaria ="daria.png"
 show iDaria
 with fade
-Daria "..."
+
+Daria "Cómo te llamas?"
+menu:
+    "Me llamo Maria":
+        jump nombrea
+
+    "Maria":
+        jump nombreb
+            
+label nombrea:
+    Daria "Encantada. Necesitas ayuda con los apuntes?"
+   
+
+label nombreb:
+    Daria "Encantada."
+   
 
 hide iDaria
 with dissolve
 
-show iMarina
+show iMarina at left
 with fade
 
 Marina "Espero hayan podido relajarse pero no mucho, que la parte que viene es tan densa como interesante."
@@ -106,7 +122,7 @@ with moveouttop
 #Modulo 2 - reglamentacion nacional e internacional
 
 
-show iMarina
+show iMarina at left
 with fade
 
 Marina "Bienvenidos al segundo día de capacitación. Espero que la prueba del dia de ayer les haya calmado los nervios."
@@ -138,7 +154,7 @@ with dissolve
 #Modulo 3 - procedimientos de rutina, obligaciones y repsonsabilidades
 
 
-show iMarina
+show iMarina at left
 with fade
 
 Marina "Bienvenidos a todos nuevamente. Es un placer ver que se mantienen firmes y fuertes en el camino de convertirse en grandes tripulantes."
@@ -189,7 +205,7 @@ with dissolve
 #Modulo 4 - Conocimientos basicos de aeronaves y motores
 
 image iSabino ="crew2.png"
-show iSabino
+show iSabino at left
 with fade
 
 Sabino "Buenos dias a todos, y bienvenidos al módulo de conocimientos básicos de aeronaves y motores."
@@ -239,7 +255,7 @@ with dissolve
 #Modulo 5 - meteorologia basica
 
 
-show iSabino
+show iSabino at left
 with fade
 
 Sabino "Buenos dias a todos. Hoy concluimos la primera semana de curso. Asi que daremos un ultimo empujon hasta el tan deseado fin de semana, que me imagino estarán esperando."
@@ -285,7 +301,7 @@ with dissolve
 #Modulo 6 - CRM Crew Resource MAgnament
 
 
-show iMarina
+show iMarina at left
 with fade
 
 Marina "Buenos dias a todos."
@@ -336,7 +352,7 @@ with dissolve
 #Modulo 7 - Modulo AVSEC (Seguridad en la aviación, Safety y Security)
 
 
-show iMarina
+show iMarina at left
 with fade
 
 Marina "Buenos dias. Cómo están?"
@@ -390,7 +406,7 @@ with dissolve
 #Modulo 8 - Mercancias peligrosas
 
 
-show iMarina
+show iMarina at left
 with fade
 
 Marina "Buenos dias, cómo están todos el dia de hoy?"
@@ -445,7 +461,7 @@ Daria "..."
 hide iDaria
 with dissolve
 
-show iMarina
+show iMarina at left
 with fade
 
 Marina "Bienvenidos de nuevo a la segunda parte del dia de hoy."
@@ -509,7 +525,7 @@ with dissolve
 
 #Modulo 9 - Procedimientos de emergencia
 
-show iMarina
+show iMarina at left
 with fade
 
 Marina "Buenos dias a todos"
@@ -559,3 +575,12 @@ Marina "Los procedimientos de emergencia garantizan que los TCPs puedan proteger
 Marina "Un conocimiento claro y entrenado en los procedimientos de emergencia permite una respuesta rápida y eficiente, reduciendo el riesgo de lesiones y daños."
 Marina "Seguir los procedimientos de emergencia asegura el cumplimiento de las normativas y regulaciones de seguridad de la aviación, lo cual es esencial para la operación segura del vuelo."
 Marina "En resumen, los procedimientos de emergencia son una parte integral del entrenamiento y la responsabilidad de los TCPs. Estar bien preparado y capacitado en estos procedimientos es esencial para manejar cualquier situación de emergencia que pueda surgir durante el vuelo."
+
+hide iMarina
+with dissolve
+
+#Modulo 10 - Primeros auxilios
+
+show iMarina at left
+with fade
+
