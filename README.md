@@ -1,4 +1,4 @@
-The player is taken to a world where he longs to have new experiences, and decides to apply for the selection process to be a member of the cabin crew of a high-level airline.
+The player is taken to a world where they long to have new experiences, and decides to apply for the selection process to be a member of the cabin crew of a high-level airline.
 To do this, they must complete 27 theoretical and practical modules, in order to get their much-desired job and new life.
 The player will be able to choose how much social interaction they want to have during the course.They will be able to choose between being a lone wolf or a team player. The more solitaire you want to play, the more difficult the tests on the course will be.
 The game serves as both a learning tool for basic knowledge of commercial aeronautics and an academic life simulator.
