@@ -6,6 +6,6 @@ The game serves as both a learning tool for basic knowledge of commercial aerona
 ——–
 
 El jugador es llevado a un mundo donde anhela tener nuevas experiencias, y decide postularse al proceso de selección para ser miembro de la tripulacion de cabina de una aerolinea de alto perfil.
-Para ello, deberá completar 27 módulos teóricos y prácticos, en son conseguir su tan deseado trabajo y nueva vida.
+Para ello, deberá completar 27 módulos teóricos y prácticos, en son de conseguir su tan deseado trabajo y nueva vida.
 El jugador podrá elegir cuanta interacción social deseará tener durante el curso. Podrá elegir entre ser un lobo solitario o un trabajador en equipo. Cuan mas solitario desea jugar, mas dificil serán las pruebas en el curso.
 El juego sirve tanto como una herramienta de aprendizaje sobre conocimientos basicos de la aeronautica comercial, como un simulador de vida academica.
