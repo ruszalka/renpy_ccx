@@ -2,6 +2,7 @@
 define Marina = Character('Instructora Marina', color="#ece580")
 define Sabino = Character('Capitán Gentile', color="#9ca1e9")
 define Daria = Character('Daria', color="#db6b6b")
+define Vlad = Character ('Instructor Vlad', color="#6bdbb9")
 
 #Inicio del juego 
 label start:
@@ -581,6 +582,64 @@ with dissolve
 
 #Modulo 10 - Primeros auxilios
 
-show iMarina at left
+
+image iVlad = "crew3.png"
+show iVlad at left
 with fade
+
+Vlad "Buenas tardes"
+Vlad "Y bienvenidos al modulo de primeros auxilios, soporte vital básico, RCP y manejo de desfibrilador"
+Vlad "Mi nombre es Vlad, y seré su instructor el resto del dia."
+Vlad "Hoy veremos la teoría por detrás de los primeros auxilios, mas adelante tendremos talleres practicos con los que aprueben la prueba."
+Vlad "Les sugiero que saquen lápiz y papel para comenzar la clase, pero no se preocupen, podrán usar sus propios apuntes luego"
+Vlad "Bien, empecemos"
+Vlad "Los Tripulantes de Cabina de Pasajeros deben tener conocimientos sólidos en primeros auxilios para poder manejar emergencias médicas a bordo."
+Vlad "Estos conocimientos les permiten proporcionar atención inmediata y adecuada en situaciones de emergencia hasta que se pueda obtener ayuda médica profesional. Aquí están los aspectos clave de primeros auxilios que un TCP debe saber"
+Vlad "El primer paso es la evaluación inicial"
+Vlad "Verificar el estado de conciencia"
+Vlad "Evalúa si la persona está consciente y respondiendo. Si la persona no responde, verifica su respiración y pulso."
+Vlad "El segundo paso sería la chequear la seguridad del escenario"
+Vlad "Asegúrense de que el área sea segura para ustedes y para la persona afectada antes de proceder."
+Vlad "Luego, veremos los pasos a seguir para iniciar una reanimación cardiopulmonar, en caso de que la situación lo amerite"
+Vlad "Lo primero que tenemos que aprender es a reconocer una parada cardiaca"
+Vlad "Deben realizar compresiones torácicas profundas y rápidas en el centro del pecho. La frecuencia recomendada es de 100-120 compresiones por minuto."
+Vlad "Si están capacitados y consideran seguro hacerlo, deberán administrar respiraciones artificiales después de cada 30 compresiones, usando la técnica de boca a boca o un dispositivo de barrera."
+Vlad "Ahora, veremos los pasos a seguir para usar un desfibrilador externo automatico. Abreviado DEA"
+Vlad "Primero que nada, deben saber donde está la ubicación del DEA dentro de la aeronave"
+Vlad "Familiarízate con la ubicación del DEA a bordo y cómo usarlo. El dispositivo proporciona instrucciones claras para administrar una descarga eléctrica si se detecta una arritmia que requiere desfibrilación."
+Vlad "Y no nos olvidemos de la preparación"
+Vlad "Asegúrate de que la persona esté en una superficie dura y seca antes de aplicar los parches del DEA"
+Vlad "Tenemos otros diversos procedimientos con los cuales deberiamos aprender a lidiar"
+Vlad "Entre ellos, el manejo de heridas y hemorragias"
+Vlad "Para controlar el sangrado, deberán aplicar presión directa sobre la herida con un vendaje limpio para detener el sangrado. Si el sangrado es severo, eleva la extremidad herida."
+Vlad "Limpien las heridas con agua limpia si es posible, y cubre con un vendaje estéril. En caso de heridas profundas o graves, aplica un vendaje de presión."
+Vlad "Otro de los procedimientos que debemos aprender es el tratamiento de quemaduras"
+Vlad "Deberán enfriar la quemadura con agua tibia (no fría) durante al menos 10 minutos. Evitar aplicar hielo directamente sobre la quemadura."
+Vlad "Cubre la quemadura con un vendaje estéril y no adhesivo. No rompas las ampollas si se forman."
+Vlad "Ahora veremos el procedimiento de manejo de la asfixia"
+Vlad "Me imagino que han oído hablar de la maniobra de Heimlich"
+Vlad "Deberán realizar la maniobra de Heimlich si una persona está consciente y presenta signos de obstrucción de las vías respiratorias. Asegúrate de seguir la técnica adecuada para adultos, niños y lactantes."
+Vlad "Si la persona está inconsciente, realiza compresiones torácicas mientras revisas la boca para posibles objetos que obstruyan las vías respiratorias."
+Vlad "Siguiente procedimiento: Tratamiento de deshidratación y shock"
+Vlad "En caso de deshidratación, si el paciente está consciente, proporciona líquidos claros si sospechas de deshidratación."
+Vlad "En caso de que se requiera un tratamiento de shock, coloca a la persona en posición acostada con las piernas elevadas, mantén su temperatura y asegúrate de que respire adecuadamente. Evita darle comida o bebida si está inconsciente o semiinconsciente."
+Vlad "Siguiente procedimiento: Reconocimiento y Manejo de Condiciones Comunes"
+Vlad "En caso de ataque de asma, Ayuda a la persona a usar su inhalador de rescate. Si no hay mejora, busca asistencia médica."
+Vlad "Para personas con diabetes, observa signos de hipoglucemia (bajo nivel de azúcar en sangre) y administra azúcar o glucosa si están conscientes y pueden tragar."
+Vlad "Durante una convulsión, mantén a la persona en un lugar seguro y alejado de objetos peligrosos. No intentes sujetar la lengua ni restringir el movimiento."
+Vlad "Atención de Emergencias Médicas Específicas"
+Vlad "Convulsiones: Mantén a la persona en una posición segura y monitorea la duración de la convulsión. Después de la convulsión, verifica su conciencia y respira normalmente."
+Vlad "Reacciones Alérgicas Severas: Si una persona muestra signos de anaflaxia (dificultad para respirar, hinchazón), utiliza un autoinyector de epinefrina si está disponible."
+Vlad "Ahora probablemente el apartado mas importante que verán en el día, el de Comunicación con Personal Médico"
+Vlad "Deberán saber informar"
+Vlad "Proporcionar detalles claros sobre la condición del paciente a los servicios médicos en tierra para preparar una respuesta adecuada al aterrizar."
+Vlad "Y deberán llenar documentación"
+Vlad "Lleva un registro de los primeros auxilios proporcionados y cualquier cambio en la condición del paciente."
+Vlad "Es de suma importancia que tengan conocimientod e los primeros auxilios apra TCPs"
+Vlad "Intervención Rápida: La capacidad de intervenir de manera rápida y efectiva en emergencias médicas puede salvar vidas y reducir la gravedad de las lesiones o enfermedades."
+Vlad "Confianza y Eficiencia: Los TCPs capacitados en primeros auxilios pueden actuar con confianza y eficacia, manteniendo la calma y manejando la situación de manera profesional."
+Vlad "Cumplimiento de Regulaciones: Las regulaciones de aviación requieren que los TCPs estén capacitados en primeros auxilios como parte de su entrenamiento, asegurando el cumplimiento de normas de seguridad y la preparación para emergencias médicas."
+Vlad "En resumen, el conocimiento y la habilidad en primeros auxilios son esenciales para los TCPs, permitiéndoles proporcionar atención inmediata y adecuada durante emergencias médicas y asegurando la seguridad y bienestar de los pasajeros y la tripulación."
+Vlad "Nos queda media clase, asi que aprovechen a descansar o estudiar, como prefieran"
+Vlad "Nos vemos en la proxima con los talleres practicos"
 
