@@ -712,3 +712,61 @@ Marina "Ubicación: Las salas VIP están ubicadas en diferentes partes del aerop
 Marina "Normas de Uso: Los pasajeros deben familiarizarse con las normas y políticas específicas de la sala VIP que visitarán, como las horas de operación, el código de vestimenta y las políticas de acceso."
 Marina "En resumen, las salas VIP ofrecen un refugio cómodo y exclusivo para los pasajeros en los aeropuertos, con una variedad de servicios y comodidades diseñadas para mejorar la experiencia de viaje."
 Marina "Los TCPs deben estar informados sobre las políticas y servicios de las salas VIP, especialmente si están involucrados en el manejo de pasajeros que utilizan estas instalaciones."
+
+hide iMarina
+with dissolve
+
+#Modulo 12 - Procedimientos aeroportuarios
+
+show iMarina at left
+with fade
+
+Marina "Buenos dias! Ya falta cada vez menos para empezar los módulos de prácticos."
+Marina "Los módulos prácticos son bastante mas laxos, dado a que son espacios controlados, y no habrán pruebas al respecto"
+Marina "Ya que el instructor de turno les dirá todo lo que necesitan saber y se asegurará de que todos lo practiquen"
+Marina "De cualquier forma, deben pasar primero por los módulos teóricos para llegar allí"
+Marina "Es una experiencia grandiosa, y espero que todos puedan llegar"
+Marina "Vamos a tomar lapiz y papel, para comenzar la clase."
+Marina "Hoy hablaremos de los procedimientos aeroportuarios"
+Marina "No toda la vida laboral de un TCP es extrictamente sobre vuelo, despues de un tiempo pueden llegar a conseguir trabajo en tierra también"
+Marina "En lo personal, no entiendo porqué lo harían. Yo amo volar."
+Marina "De cualquier manera, en ambos casos es fundamental que entiendan los procedimientos aeroportuarios por detrás del despegue de un avión."
+Marina "Los procedimientos aeroportuarios son fundamentales para garantizar la seguridad y eficiencia en el manejo de vuelos y pasajeros."
+Marina "Los Tripulantes de Cabina de Pasajeros deben estar familiarizados con una serie de procedimientos aeroportuarios para desempeñar sus funciones de manera efectiva."
+Marina "A continuación se detallan los principales procedimientos aeroportuarios relevantes para los TCPs:"
+Marina "Primero, procedimientos de embarque"
+Marina "Verificación de Documentos: Asegúrate de que los pasajeros tengan sus tarjetas de embarque y documentos de identificación listos al embarcar. Verifica que los pasajeros sean los correctos para el vuelo."
+Marina "Orden de Embarque: Sigue el procedimiento de embarque establecido por la aerolínea, que puede estar basado en grupos, clases de servicio o prioridad de embarque."
+Marina "Asistencia a Pasajeros: Proporciona asistencia a pasajeros con necesidades especiales, como personas con movilidad reducida, familias con niños pequeños, y pasajeros que necesiten ayuda adicional."
+Marina "Segundo, Procedimientos de Desembarque"
+Marina "Organización del Desembarque: Coordina el desembarque de los pasajeros de manera ordenada. Normalmente, el desembarque se realiza por grupos o filas para evitar congestiones."
+Marina "Asistencia en el Desembarque: Ayuda a los pasajeros a recoger su equipaje de mano y a abandonar la aeronave de manera segura. Asegúrate de que todos los pasajeros hayan salido antes de cerrar la puerta."
+Marina "Verificación de la Cabina: Realiza una inspección final de la cabina para asegurar que no se haya olvidado ningún objeto personal o pertenencias."
+Marina "Tercero, Procedimientos de Carga y Descarga de Equipaje"
+Marina "Revisión de Equipaje: Asegúrate de que el equipaje de mano esté adecuadamente almacenado en los compartimentos superiores y debajo de los asientos, siguiendo las normativas de la aerolínea."
+Marina "Manejo de Equipaje Especial: Proporciona asistencia con el manejo de equipaje especial, como sillas de ruedas, equipos deportivos o instrumentos musicales."
+Marina "Cuarto, Procedimientos de Seguridad y Control"
+Marina "Control de Seguridad: Asegúrate de que los pasajeros pasen por los controles de seguridad de manera eficiente y segura, siguiendo las instrucciones del personal de seguridad del aeropuerto."
+Marina "Seguridad a Bordo: Verifica que todos los pasajeros sigan las instrucciones de seguridad antes del despegue, incluyendo el uso de cinturones de seguridad y el almacenamiento adecuado de equipaje."
+Marina "Quinto, Procedimientos en Caso de Retrasos y Cancelaciones"
+Marina "Comunicación con Pasajeros: Informa a los pasajeros sobre cualquier retraso o cancelación del vuelo y proporciona actualizaciones oportunas. Mantén la calma y ofrece asistencia según sea necesario."
+Marina "Reubicación de Pasajeros: Ayuda a los pasajeros a encontrar información sobre reubicaciones en otros vuelos, hoteles o transporte alternativo si el vuelo es cancelado."
+Marina "Sexto, Procedimientos en Emergencias"
+Marina "Plan de Emergencia: Conoce y sigue el plan de emergencia del aeropuerto y de la aerolínea en caso de situaciones críticas, como evacuaciones o incidentes de seguridad."
+Marina "Coordinación con el Personal del Aeropuerto: Trabaja en conjunto con el personal del aeropuerto para coordinar la respuesta a emergencias y garantizar la seguridad de los pasajeros y la tripulación."
+Marina "Septimo, Procedimientos de Comunicación"
+Marina "Informes de Vuelo: Completa y presenta informes de vuelo y cualquier documentación requerida a la llegada o salida del vuelo."
+Marina "Comunicación con la Cabina de Mando: Mantén una comunicación constante con la cabina de mando para recibir instrucciones y proporcionar información relevante sobre la cabina y los pasajeros."
+Marina "Octavo, Procedimientos de Inspección Pre-Vuelo"
+Marina "Revisión de la Cabina: Antes del embarque, realiza una inspección de la cabina para asegurarte de que todos los equipos de seguridad estén en su lugar y funcionando correctamente."
+Marina "Equipos de Emergencia: Verifica que los equipos de emergencia, como los chalecos salvavidas y las mascarillas de oxígeno, estén accesibles y en condiciones adecuadas."
+Marina "Noveno, Procedimientos de Check-In"
+Marina "Asistencia en el Check-In: Proporciona asistencia a los pasajeros en el proceso de check-in en el aeropuerto, si es parte de tus funciones, y asegúrate de que todos los documentos y requisitos estén en orden."
+Marina "Decimo, Procedimientos de Coordinación con Otros Departamentos"
+Marina "Coordinación con Servicios de Tierra: Trabaja con el personal de tierra, incluyendo personal de carga, servicios de limpieza y personal de atención al cliente para asegurar que todas las operaciones se realicen de manera fluida."
+Marina "Interacción con Personal del Aeropuerto: Colabora con el personal de seguridad, control de tráfico aéreo y otros departamentos del aeropuerto para garantizar el cumplimiento de las normativas y la seguridad de las operaciones."
+Marina "En resumen, los procedimientos aeroportuarios para los TCPs abarcan una variedad de tareas relacionadas con el embarque, desembarque, manejo de equipaje, seguridad, y comunicación."
+Marina "Seguir estos procedimientos de manera efectiva es crucial para mantener la seguridad, eficiencia y comodidad durante el vuelo y en el aeropuerto."
+
+hide iMarina
+with dissolve
