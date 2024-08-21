@@ -770,3 +770,98 @@ Marina "Seguir estos procedimientos de manera efectiva es crucial para mantener 
 
 hide iMarina
 with dissolve
+
+#Modulo 13 - Inglés técnico aeronautico
+
+show iMarina at left
+with fade
+
+Marina "El inglés técnico aeronáutico es fundamental para los Tripulantes de Cabina de Pasajeros (TCPs), ya que es el idioma internacional de la aviación y se utiliza para la comunicación entre la tripulación y el personal de tierra, así como para la comprensión de procedimientos y normativas. "
+Marina "Aquí tienes una guía de los términos y frases clave en inglés técnico aeronáutico que un TCP debe conocer:"
+Marina "Terminología Básica de Aviación"
+Marina "Anoten todos los terminos porque los van a necesitar"
+Marina "- **Aircraft:** Aeronave
+- **Cabin Crew:** Tripulación de Cabina
+- **Cockpit:** Cabina de pilotaje
+- **Galley:** Cocina a bordo
+- **Lavatory:** Baño
+- **Seatbelt:** Cinturón de seguridad
+- **Emergency Exit:** Salida de emergencia
+- **Overhead Bin:** Compartimento superior
+- **Tray Table:** Mesa de asiento"
+
+Marina "Procedimientos de Seguridad y Emergencia"
+Marina "- **Safety Demonstration:** Demostración de seguridad
+- **Life Vest:** Chaleco salvavidas
+- **Oxygen Mask:** Mascarilla de oxígeno
+- **Fire Extinguisher:** Extintor de incendios
+- **First Aid Kit:** Botiquín de primeros auxilios
+- **Evacuation:** Evacuación
+- **Bracing Position:** Posición de protección
+- **Decompression:** Despresurización"
+
+Marina "Comunicación a Bordo"
+Marina "- **Boarding:** Embarque
+- **Disembark:** Desembarcar
+- **Takeoff:** Despegue
+- **Landing:** Aterrizaje
+- **Turbulence:** Turbulencia
+- **Cruise:** Crucero
+- **Flight Attendant:** Asistente de vuelo
+- **Passenger Briefing:** Informe a los pasajeros
+- **Cabin Pressure:** Presión en la cabina"
+
+Marina "Manejo de Equipaje y Asistencia"
+Marina "- **Carry-On Luggage:** Equipaje de mano
+- **Checked Baggage:** Equipaje facturado
+- **Special Assistance:** Asistencia especial
+- **Stowage:** Almacenamiento
+- **Lost Luggage:** Equipaje perdido"
+Marina "Atención al Cliente"
+Marina "- **Service:** Servicio
+- **Request:** Solicitud
+- **Complaints:** Quejas
+- **Feedback:** Retroalimentación
+- **Assistance:** Asistencia
+- **Comfort:** Confort"
+Marina "Procedimientos de Embarque y Desembarque"
+Marina "- **Boarding Pass:** Tarjeta de embarque
+- **Gate:** Puerta de embarque
+- **Priority Boarding:** Embarque prioritario
+- **Final Call:** Última llamada
+- **Disembarkation:** Desembarque"
+Marina "Frases Comunes de Comunicación"
+Marina "- **Please fasten your seatbelt.:** Por favor, abróchese el cinturón de seguridad.
+- **In case of emergency, follow the illuminated exit signs.:** En caso de emergencia, siga las señales de salida iluminadas.
+- **We are experiencing turbulence. Please remain seated with your seatbelt fastened.:** Estamos experimentando turbulencia. Por favor, permanezca sentado con el cinturón de seguridad abrochado.
+- **If you need any assistance, please let us know.:** Si necesita ayuda, por favor, avísenos.
+- **We will be landing shortly. Please return to your seat and fasten your seatbelt.:** Estaremos aterrizando en breve. Por favor, regrese a su asiento y abróchese el cinturón de seguridad."
+Marina "Términos Relacionados con el Clima y Condiciones de Vuelo"
+Marina "- **Weather Conditions:** Condiciones meteorológicas
+- **Visibility:** Visibilidad
+- **Altitude:** Altitud
+- **Storm:** Tormenta
+- **Clear Skies:** Cielo despejado"
+Marina "Gestión de Emergencias"
+Marina "- **Emergency Procedures:** Procedimientos de emergencia
+- **Emergency Landing:** Aterrizaje de emergencia
+- **Evacuation Procedure:** Procedimiento de evacuación
+- **Medical Emergency:** Emergencia médica"
+Marina "Protocolos de Servicio"
+Marina "- **Pre-Flight Briefing:** Información previa al vuelo
+- **In-Flight Service:** Servicio a bordo
+- **Customer Service:** Atención al cliente
+- **Handling Complaints:** Manejo de quejas"
+Marina "Consejos para el Aprendizaje del Inglés Técnico Aeronáutico"
+Marina "- **Estudiar Glosarios:** Utiliza glosarios de aviación para familiarizarte con términos técnicos.
+- **Simulaciones de Situaciones:** Practica escenarios de vuelo y emergencias para mejorar tu comprensión y fluidez.
+- **Participar en Cursos de Capacitación:** Realiza cursos de capacitación específicos para TCPs en inglés, que incluyen aspectos técnicos y de servicio."
+Marina "En resumen, dominar el inglés técnico aeronáutico es crucial para la comunicación efectiva y el manejo adecuado de las operaciones de vuelo y el servicio a bordo."
+Marina "Familiarizarse con la terminología y los procedimientos te ayudará a realizar tus funciones con mayor confianza y eficiencia."
+Marina "Ahora les voy a pedir que hagan grupos de a dos o tres, y practiquen lo aprendido entre ustedes."
+Marina "Seguro mas de uno ya sabe inglés, asi que se podrán ayudar"
+Marina "Al final de la clase tendremos la prueba"
+Marina "Mucha suerte! "
+
+hide iMarina
+with dissolve
