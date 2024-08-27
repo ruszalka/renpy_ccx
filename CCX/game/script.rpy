@@ -865,3 +865,76 @@ Marina "Mucha suerte! "
 
 hide iMarina
 with dissolve
+
+#Modulo 14 - Imagen y presentación personal
+
+show iMarina at left
+with fade
+
+Marina "Hola a todos, hoy vamos a hablar de algo fundamental para cualquier Tripulante de Cabina de Pasajeros: la imagen y la presentación personal."
+Marina "Estos son aspectos clave que no solo nos permiten mantener un estándar profesional, sino que también garantizan una experiencia de vuelo segura y agradable para todos los pasajeros."
+Marina "Primero, hablemos del uniforme y la apariencia personal. Como TCPs, debemos llevar el uniforme de la aerolínea con orgullo y de acuerdo con las directrices establecidas."
+Marina "Esto significa que el uniforme debe estar siempre limpio, bien planchado y en buen estado."
+Marina "Nada de chaquetas arrugadas o camisas sueltas; cada detalle cuenta. Los zapatos, por supuesto, deben ser de color negro, bien lustrados, y cómodos."
+Marina "Recuerden que estarán de pie y caminando durante largas horas, así que la elección del calzado es esencial."
+Marina "Y en cuanto a los accesorios, la regla de oro es la discreción. Evitemos las joyas llamativas que puedan distraer o interferir con nuestro trabajo."
+Marina "Ahora, pasando a la higiene personal. No podemos subestimar la importancia de mantenernos pulcros y profesionales en todo momento"
+Marina "Esto incluye una ducha diaria, el uso de desodorante y asegurar que nuestro aliento esté siempre fresco. El cabello debe estar limpio y bien peinado, y los estilos deben ser adecuados para el entorno de trabajo."
+Marina "En cuanto al maquillaje, menos es más: debe ser discreto y natural. Las uñas, limpias y cortas, con esmalte en colores neutros si deciden usarlo."
+Marina "La postura y el lenguaje corporal también juegan un papel crucial en cómo nos perciben los pasajeros. Una postura erguida transmite confianza y profesionalismo, y una sonrisa genuina ayuda a crear una atmósfera acogedora."
+Marina "No olvidemos el contacto visual, que demuestra atención y compromiso con el servicio al cliente."
+Marina "Pero no todo es apariencia. La actitud y el comportamiento son igual de importantes. Debemos ser siempre corteses y respetuosos, usando un tono de voz amigable y profesional."
+Marina "Proyectar confianza y seguridad es clave, especialmente en situaciones de emergencia. Y, por supuesto, la paciencia es una virtud que debemos practicar continuamente, sobre todo cuando las cosas se complican."
+Marina "En cuanto a la comunicación y la atención al cliente, debemos ser claros y evitar el uso de jerga técnica que pueda confundir a los pasajeros."
+Marina "Escuchar activamente sus necesidades y responder con empatía es esencial para brindar un servicio de calidad."
+Marina "No podemos olvidar la preparación para emergencias. Nuestra apariencia y comportamiento durante estas situaciones deben transmitir calma y control."
+Marina "Estar bien preparados y conocer a fondo los procedimientos de emergencia es fundamental."
+Marina "Finalmente, tenemos que cumplir siempre con las normativas y políticas de la aerolínea. Esto incluye estar al tanto de cualquier actualización en los estándares de la empresa y de las regulaciones de la industria."
+Marina "En resumen, la imagen y presentación personal son más que solo una cuestión de apariencia; son parte integral de la experiencia del pasajero y del éxito general del servicio a bordo."
+Marina "Recuerden que la primera impresión que damos puede influir en cómo los pasajeros perciben todo el vuelo. Así que, cuidemos cada detalle, mantengamos una actitud profesional y amigable, y contribuyamos al éxito de nuestra aerolínea."
+
+hide iMarina
+with dissolve
+
+
+#Modulo 15 - Teoria y practica de la busqueda
+
+show iMarina at left
+with fade
+
+Marina "Hola a todos, hoy nos adentraremos en el proceso de búsqueda de empleo como Tripulante de Cabina de Pasajeros, o TCP, que es un camino que requiere tanto de una preparación teórica sólida como de una práctica efectiva."
+Marina "Vamos a abordar cada aspecto clave que necesitas dominar para destacar en esta competitiva industria."
+Marina "Empezaremos con la teoría de la búsqueda laboral, que es fundamental para entender el entorno en el que te moverás y cómo posicionarte mejor. El primer paso es el conocimiento del mercado. "
+Marina "Es vital que investigues el sector de la aviación de manera exhaustiva."
+Marina "¿Qué aerolíneas son las más relevantes? ¿Qué requisitos específicos tienen para sus TCPs? ¿Qué tendencias actuales están dominando la industria?"
+Marina "Por ejemplo, algunas aerolíneas pueden estar enfocándose en la sostenibilidad y la experiencia del cliente, lo que podría influir en los perfiles que buscan."
+Marina "Pasando a los requisitos y certificaciones, es esencial que te familiarices con lo que necesitas para calificar como TCP, dependiendo de la región en la que quieras trabajar."
+Marina "En Europa, por ejemplo, podrías necesitar una certificación de la EASA, mientras que en Estados Unidos, la FAA tiene sus propios requisitos. Esto incluye, sin duda, una formación rigurosa en seguridad, certificaciones médicas y posiblemente pruebas adicionales según la aerolínea."
+Marina "Un elemento crítico en tu búsqueda es la elaboración del Currículum Vitae (CV). Aquí es donde debes destacarte. Tu CV debe comenzar con un resumen profesional conciso pero impactante, que resalte tus habilidades y experiencias más relevantes para el rol de TCP."
+Marina "Recuerda mencionar cualquier formación específica en aviación y cualquier experiencia previa en servicio al cliente, ya que ambas son extremadamente valoradas. "
+Marina "Luego, en la sección de experiencia y habilidades, asegúrate de detallar roles anteriores que demuestren tu capacidad para manejar situaciones de alta presión, como en la atención al cliente, y resalta cualquier experiencia relacionada con la aviación. "
+Marina "Las formaciones y certificaciones deben estar claramente enumeradas, mostrando que estás más que calificado para el puesto."
+Marina "La siguiente fase en nuestra teoría es la preparación para entrevistas. Es fundamental que te prepares para las preguntas comunes que suelen hacerse en estas entrevistas, tales como tu experiencia en manejo de situaciones difíciles o emergencias. "
+Marina "Estas son situaciones donde tu capacidad de mantener la calma y tomar decisiones rápidas será evaluada. Por ello, practicar simulaciones de entrevistas es una excelente estrategia."
+Marina "Ensaya cómo manejarías situaciones de emergencia o cómo abordarías un desafío con un pasajero difícil. Esto no solo te da confianza, sino que también demuestra a los reclutadores que estás preparado para lo inesperado."
+Marina "Ahora, cambiando de enfoque, pasemos a la práctica de la búsqueda laboral. Aquí es donde la teoría cobra vida. Comencemos con la búsqueda de ofertas de trabajo."
+Marina "Es crucial que te familiarices con portales de empleo especializados en la industria de la aviación. Sitios como AviationJobSearch o AirlineCareer son excelentes recursos para encontrar las últimas ofertas."
+Marina "Además, no subestimes el poder de las redes profesionales. LinkedIn, por ejemplo, no solo es útil para encontrar trabajos, sino también para conectar con profesionales del sector, unirte a grupos de aviación y estar al tanto de las novedades y oportunidades que pueden no estar publicadas en otros lugares. "
+Marina "No olvides revisar regularmente las páginas web de las aerolíneas. Muchas veces, las oportunidades de trabajo más exclusivas se publican directamente en sus portales de carrera."
+Marina "La aplicación y seguimiento es otra parte crucial. Tu carta de presentación debe ser personalizada para cada aplicación. Explica por qué eres el candidato ideal y destaca cómo tu experiencia y habilidades se alinean con lo que la aerolínea busca."
+Marina "Asegúrate de que tu aplicación en línea esté completa y profesional, siguiendo todas las instrucciones al pie de la letra. No dejes cabos sueltos, ya que cualquier error podría costarte la oportunidad. Después de enviar tu solicitud, un seguimiento adecuado es clave."
+Marina "Un correo electrónico cortés que reitere tu interés en el puesto y confirme la recepción de tu solicitud puede hacer que te destaques entre otros candidatos."
+Marina "Prepararse para evaluaciones y pruebas es una fase donde muchos fallan por falta de preparación. Es probable que te enfrentes a pruebas de habilidad, que pueden incluir desde evaluaciones de conocimientos técnicos hasta pruebas de comunicación y resolución de problemas."
+Marina "Por ello, practicar y prepararse con anticipación es esencial. Además, algunas aerolíneas podrían incluir simulaciones de situaciones reales como parte del proceso de evaluación."
+Marina "Aquí es donde tu capacidad para manejar situaciones de vuelo o servicio al cliente de manera efectiva será evaluada en un entorno controlado."
+Marina "Desarrollar continuamente tus habilidades es un componente que no debes descuidar. Considera la posibilidad de realizar capacitación adicional. "
+Marina "Cursos en primeros auxilios, manejo de emergencias, o incluso en idiomas extranjeros pueden hacer que tu perfil sea mucho más atractivo. Además, adquirir experiencia voluntaria en roles relacionados con la atención al cliente puede fortalecer tu CV y ofrecerte una experiencia valiosa que los empleadores valorarán."
+Marina "Por último, quiero darles algunos consejos adicionales que pueden marcar la diferencia en su búsqueda laboral. La red de contactos es invaluable en la industria de la aviación. "
+Marina " Asistir a eventos de la industria, ferias de empleo, y expandir tu red profesional puede abrirte puertas que ni siquiera sabías que existían."
+Marina "Además, la actualización continua de tus habilidades y conocimientos es vital en un sector tan dinámico como este. Mantente al día con las últimas regulaciones y tendencias."
+Marina "Y por último, mantente flexible. Estar dispuesto a considerar oportunidades en diferentes regiones o con aerolíneas más pequeñas puede ser la puerta de entrada para tu carrera como TCP."
+Marina "En resumen, buscar trabajo como Tripulante de Cabina de Pasajeros no es solo enviar currículos. Es un proceso que combina preparación teórica y práctica, conocimiento del mercado, y estrategias efectivas de búsqueda y aplicación."
+Marina "Si te tomas el tiempo para preparar un CV sólido, practicar para tus entrevistas, y aplicar con diligencia, estarás bien encaminado hacia el éxito en esta emocionante y desafiante carrera en la aviación"
+
+hide iMarina
+with dissolve
