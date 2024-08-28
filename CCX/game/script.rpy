@@ -263,7 +263,7 @@ Sabino "Buenos dias a todos. Hoy concluimos la primera semana de curso. Asi que 
 Sabino "Como habrán visto en el calendário del curso, hoy daremos el módulo de meteorología básica."
 Sabino "El conocimiento básico de meteorología es crucial para los Tripulantes de Cabina de Pasajeros, ya que les permite entender las condiciones atmosféricas que pueden afectar el vuelo y prepararse para manejar situaciones relacionadas con el clima de manera eficaz. Aquí te presento un resumen de los conceptos meteorológicos esenciales para los TCPs."
 Sabino "Empecemos con los fundamentos de la meteorología."
-Sabino "Primero. Los TCPs deben entender que la atmósfera está compuesta por varias capas (troposfera, estratosfera, etc.), pero la mayoría de los fenómenos meteorológicos que afectan el vuelo ocurren en la troposfera, que se extiende hasta unos 12 km de altura."
+Sabino "Primero. Los TCPs deben entender que la atmósfera está compuesta por varias capas (troposfera, estratosfera, etc.), pero la mayoría de los fenómenos meteorológicos que afectan el vuelo ocurren en la troposfera, que se extiende hasta unos 12 kMarina de altura."
 Sabino "Segundo, deben entender la presión atmosférica. Es la fuerza que el aire ejerce sobre la superficie de la Tierra. Los TCPs deben conocer que las variaciones en la presión atmosférica pueden afectar la altitud y el rendimiento de la aeronave, así como la percepción de los pasajeros, especialmente durante el despegue y el aterrizaje."
 Sabino "Tercero y no menos importante, la temperatura. La temperatura del aire disminuye con la altitud. Este enfriamiento afecta la densidad del aire, lo que a su vez puede influir en el rendimiento del avión y la formación de fenómenos como el hielo en las alas."
 Sabino "Hasta aquí todo claro? Pues, seguimos."
@@ -299,7 +299,7 @@ Sabino "Estos conocimientos permiten a los TCPs manejar de manera efectiva cualq
 hide iSabino
 with dissolve
 
-#Modulo 6 - CRM Crew Resource MAgnament
+#Modulo 6 - CRMarina Crew Resource MAgnament
 
 
 show iMarina at left
@@ -313,10 +313,10 @@ Marina "El día que empiecen a volar con nosotros, entenderán que es un referen
 Marina "Más allá de ello, espero que también hayan podido disfrutar de su primer fin de semana, trás un arduo entrenamiento."
 Marina "Que hayan podido aprovechar para distenderse, y sobre todo, estudiar mas."
 Marina "Si realmente desean esta posición, sabrán aprovechar cada instante, y el entrenamiento terminará antes de que puedan darse cuenta."
-Marina "El dia de hoy hablaremos del CRM y sus implicaciones."
+Marina "El dia de hoy hablaremos del CRMarina y sus implicaciones."
 Marina "Saquen lápiz y papel, que hoy vamos a anotar mucho."
 Marina "El Crew Resource Management (CRM), o Gestión de los Recursos de la Tripulación, es un conjunto de procedimientos de capacitación diseñados para mejorar la seguridad en la aviación mediante la promoción de una comunicación efectiva, la toma de decisiones, la resolución de problemas, y la coordinación entre todos los miembros de la tripulación, incluidos los pilotos, los Tripulantes de Cabina de Pasajeros (TCPs), y otros miembros del equipo."
-Marina "Para los TCPs, el CRM es esencial porque su rol va más allá de atender a los pasajeros; son una parte crítica de la tripulación en la gestión de situaciones normales y de emergencia. El CRM ayuda a los TCPs a interactuar de manera efectiva con el resto de la tripulación y a contribuir a la seguridad del vuelo."
+Marina "Para los TCPs, el CRMarina es esencial porque su rol va más allá de atender a los pasajeros; son una parte crítica de la tripulación en la gestión de situaciones normales y de emergencia. El CRMarina ayuda a los TCPs a interactuar de manera efectiva con el resto de la tripulación y a contribuir a la seguridad del vuelo."
 Marina "En Sky-Blue Airlines, lo dividimos en seis pilares principales."
 Marina "El primero, la comunicación efectiva."
 Marina "Efectiva en el intercambio de información. Los TCPs deben comunicarse clara y efectivamente con la cabina de mando y otros miembros de la tripulación. Esto incluye la capacidad de proporcionar información relevante de manera concisa y asegurarse de que los mensajes se entienden correctamente."
@@ -334,18 +334,18 @@ Marina "El quinto pilar es para mi el mas dificil, que es la gestión del estré
 Marina "Es crucial poder mantener la calma bajo presión. Los TCPs deben poder manejar el estrés de manera efectiva, especialmente durante situaciones de emergencia, para tomar decisiones claras y racionales."
 Marina "Y dentro de este pilar también aprenderemos técnicas de relajación. Es útil que los TCPs conozcan y apliquen técnicas para reducir el estrés, tanto para ellos mismos como para tranquilizar a los pasajeros."
 Marina "Nuestro último pilar está compuesto por diferentes items referentes a la resolución de conflictos."
-Marina "El primero sería el manejo de pasajeros conflictivos. El CRM incluye técnicas para manejar y desescalar conflictos con pasajeros, asegurando que el vuelo se mantenga seguro y que las situaciones potencialmente peligrosas se resuelvan de manera adecuada."
+Marina "El primero sería el manejo de pasajeros conflictivos. El CRMarina incluye técnicas para manejar y desescalar conflictos con pasajeros, asegurando que el vuelo se mantenga seguro y que las situaciones potencialmente peligrosas se resuelvan de manera adecuada."
 Marina "Y la negociación y persuasión. Los TCPs deben ser capaces de utilizar la persuasión y la negociación para obtener la cooperación de los pasajeros en situaciones difíciles."
 Marina "Y bien, que les ha parecido? Son bastantes cosas que recordar, pero considero que todas ellas bastante intuitivas, una vez que entiendes el trabajo del TCP."
 Marina "Ahora veremos la aplicación del CMR en situaciones reales."
-Marina "Evacuaciones de Emergencia: En caso de una evacuación de emergencia, el CRM asegura que todos los miembros de la tripulación trabajen juntos de manera eficiente, siguiendo los procedimientos establecidos y comunicándose constantemente para asegurar que todos los pasajeros salgan del avión de manera segura."
+Marina "Evacuaciones de Emergencia: En caso de una evacuación de emergencia, el CRMarina asegura que todos los miembros de la tripulación trabajen juntos de manera eficiente, siguiendo los procedimientos establecidos y comunicándose constantemente para asegurar que todos los pasajeros salgan del avión de manera segura."
 Marina "Incidentes de Salud a Bordo: Si un pasajero sufre una emergencia médica, los TCPs deben coordinarse con los pilotos, otros TCPs, y, si es necesario, con el personal médico en tierra. Aquí, la comunicación efectiva y la toma rápida de decisiones son esenciales."
-Marina "Turbulencia o Mal Tiempo: Durante turbulencia severa o condiciones meteorológicas adversas, los TCPs deben aplicar el CRM para asegurar que todos los pasajeros están seguros, comunicarse con la cabina de mando sobre las condiciones en la cabina, y coordinar cualquier acción necesaria para mantener la seguridad."
-Marina "El CRM trae muchisimos beneficios para todos los TCPs, porque sistematiza procesos que son dificiles de deducir en situaciones complejas. El poder organizar estas practicas mentalmente nos ayuda a recordarlas."
-Marina "Ni que hablar como mejoran la seguridad del vuelo. Al promover la comunicación y la coordinación efectiva, el CRM reduce el riesgo de errores humanos y mejora la respuesta de la tripulación en situaciones críticas."
-Marina "Aumenta la Eficiencia Operacional. Una tripulación que utiliza CRM de manera efectiva puede manejar situaciones inesperadas de manera más fluida, minimizando interrupciones y asegurando un vuelo más eficiente."
-Marina "Fortalece el Trabajo en Equipo. El CRM fomenta un ambiente de trabajo en equipo, donde todos los miembros de la tripulación se apoyan mutuamente y trabajan juntos hacia un objetivo común: la seguridad y el éxito del vuelo."
-Marina "El CRM es, por lo tanto, una herramienta fundamental para los TCPs, ayudándolos a desempeñar su papel de manera efectiva y asegurando que contribuyen positivamente a la seguridad y el bienestar de todos a bordo."
+Marina "Turbulencia o Mal Tiempo: Durante turbulencia severa o condiciones meteorológicas adversas, los TCPs deben aplicar el CRMarina para asegurar que todos los pasajeros están seguros, comunicarse con la cabina de mando sobre las condiciones en la cabina, y coordinar cualquier acción necesaria para mantener la seguridad."
+Marina "El CRMarina trae muchisimos beneficios para todos los TCPs, porque sistematiza procesos que son dificiles de deducir en situaciones complejas. El poder organizar estas practicas mentalmente nos ayuda a recordarlas."
+Marina "Ni que hablar como mejoran la seguridad del vuelo. Al promover la comunicación y la coordinación efectiva, el CRMarina reduce el riesgo de errores humanos y mejora la respuesta de la tripulación en situaciones críticas."
+Marina "Aumenta la Eficiencia Operacional. Una tripulación que utiliza CRMarina de manera efectiva puede manejar situaciones inesperadas de manera más fluida, minimizando interrupciones y asegurando un vuelo más eficiente."
+Marina "Fortalece el Trabajo en Equipo. El CRMarina fomenta un ambiente de trabajo en equipo, donde todos los miembros de la tripulación se apoyan mutuamente y trabajan juntos hacia un objetivo común: la seguridad y el éxito del vuelo."
+Marina "El CRMarina es, por lo tanto, una herramienta fundamental para los TCPs, ayudándolos a desempeñar su papel de manera efectiva y asegurando que contribuyen positivamente a la seguridad y el bienestar de todos a bordo."
 
 hide iMarina
 with dissolve
@@ -910,7 +910,7 @@ Marina "¿Qué aerolíneas son las más relevantes? ¿Qué requisitos específic
 Marina "Por ejemplo, algunas aerolíneas pueden estar enfocándose en la sostenibilidad y la experiencia del cliente, lo que podría influir en los perfiles que buscan."
 Marina "Pasando a los requisitos y certificaciones, es esencial que te familiarices con lo que necesitas para calificar como TCP, dependiendo de la región en la que quieras trabajar."
 Marina "En Europa, por ejemplo, podrías necesitar una certificación de la EASA, mientras que en Estados Unidos, la FAA tiene sus propios requisitos. Esto incluye, sin duda, una formación rigurosa en seguridad, certificaciones médicas y posiblemente pruebas adicionales según la aerolínea."
-Marina "Un elemento crítico en tu búsqueda es la elaboración del Currículum Vitae (CV). Aquí es donde debes destacarte. Tu CV debe comenzar con un resumen profesional conciso pero impactante, que resalte tus habilidades y experiencias más relevantes para el rol de TCP."
+Marina "Un elemento crítico en tu búsqueda es la elaboración del CurrículuMarina Vitae (CV). Aquí es donde debes destacarte. Tu CV debe comenzar con un resumen profesional conciso pero impactante, que resalte tus habilidades y experiencias más relevantes para el rol de TCP."
 Marina "Recuerda mencionar cualquier formación específica en aviación y cualquier experiencia previa en servicio al cliente, ya que ambas son extremadamente valoradas. "
 Marina "Luego, en la sección de experiencia y habilidades, asegúrate de detallar roles anteriores que demuestren tu capacidad para manejar situaciones de alta presión, como en la atención al cliente, y resalta cualquier experiencia relacionada con la aviación. "
 Marina "Las formaciones y certificaciones deben estar claramente enumeradas, mostrando que estás más que calificado para el puesto."
@@ -1096,6 +1096,44 @@ Marina "Además, realizar pruebas de competencia y recibir retroalimentación no
 Marina "En resumen, el combate al fuego y la manipulación de extintores son habilidades que deben ser parte de nuestro día a día como TCPs."
 Marina "Entrenarnos regularmente nos prepara para proteger a los pasajeros y a la tripulación de manera efectiva en caso de un incendio a bordo."
 Marina "¡Así que sigan practicando, manténganse informados y siempre listos para cualquier eventualidad!"
+
+hide iMarina
+with dissolve
+
+#Modulo 20 - Supervivencia en tierra, simulando un crash landing, organziación de medios de supervivencia
+
+show iMarina at left
+with fade
+
+Marina "Buenos días a todos. Hoy vamos a profundizar en un tema crucial para la seguridad de todos a bordo: la supervivencia en tierra después de un aterrizaje forzoso."
+Marina "Como Tripulantes de Cabina de Pasajeros, su entrenamiento no se limita a los procedimientos en vuelo. También deben estar preparados para situaciones de emergencia una vez que el avión está en tierra, especialmente si nos encontramos en un entorno remoto o desafiante."
+
+Marina "Primero, hablemos de lo que deben hacer inmediatamente después de un aterrizaje forzoso. Lo primero es realizar una evaluación de la situación de manera rápida y efectiva."
+Marina "Es fundamental que comprueben la condición de la aeronave. Deben identificar si hay riesgos de incendio, derrames de combustible u otros peligros que puedan poner en riesgo a las personas a bordo."
+Marina "Asegúrense de que todos los pasajeros y miembros de la tripulación estén seguros. Si es posible, deben proceder a evacuar la aeronave utilizando las salidas de emergencia y cualquier equipo disponible, como los toboganes inflables."
+
+Marina "Una vez que hayan logrado evacuar la aeronave, el siguiente paso es organizar a las personas. Reúnan a todos los pasajeros y miembros de la tripulación en un lugar seguro y visible."
+Marina "Es importante hacer un recuento de todas las personas y evaluar su estado físico. Después, deben revisar los recursos disponibles en la aeronave, como equipos de emergencia, primeros auxilios y suministros de supervivencia, y organizarlos para su uso adecuado."
+
+Marina "En cuanto a las técnicas de supervivencia en tierra, lo primero es construir refugios. Utilicen materiales de la aeronave o elementos naturales del entorno para protegerse del clima adverso."
+Marina "Asegúrense de que los refugios sean adecuados para protegerse del frío y la humedad. También es importante que los refugios tengan buena ventilación para evitar la acumulación de dióxido de carbono, lo cual puede ser perjudicial."
+
+Marina "En cuanto a la obtención de agua y alimentos, deben buscar fuentes de agua potable en el entorno, como riachuelos o agua de lluvia. Utilicen cualquier equipo de filtración disponible o hierva el agua si es posible para eliminar contaminantes."
+Marina "Respecto a los alimentos, comiencen usando los suministros de emergencia que se encuentran en la aeronave. Si estos se agotan, identifiquen fuentes seguras de alimentos en el entorno y eviten consumir plantas o animales desconocidos sin asegurarse de que sean seguros."
+
+Marina "También es crucial utilizar técnicas de señalización y comunicación para hacerse visibles a los equipos de rescate. Utilicen bengalas, reflejos y silbatos, y mantengan una señalización continua durante el día y la noche."
+Marina "Si tienen acceso a radios o teléfonos satelitales, úsenlos para contactar a los servicios de rescate y proporcionar información sobre la ubicación y las condiciones."
+
+Marina "Para organizar los medios de supervivencia, asegúrense de que los kits de primeros auxilios estén completos y accesibles. Utilícenlos para tratar cualquier lesión o problema de salud."
+Marina "Organicen equipos como linternas, bengalas y radios de emergencia. Asegúrense de que estén operativos y listos para usar. Asignen roles y responsabilidades entre los miembros de la tripulación y los pasajeros para manejar los recursos de manera efectiva."
+
+Marina "Es importante practicar estos procedimientos a través de simulacros de supervivencia en tierra. Realicen simulacros en entornos controlados para practicar la evacuación, la construcción de refugios, la obtención de agua y alimentos, y la señalización."
+Marina "Después de cada simulacro, revisen los procedimientos seguidos y proporcionen retroalimentación para mejorar las técnicas y la coordinación."
+
+Marina "Finalmente, mantengan siempre una buena preparación mental y física. Una buena condición física y una actitud mental positiva son cruciales para manejar cualquier situación de supervivencia."
+Marina "La capacidad de coordinar, liderar y comunicarse efectivamente puede marcar la diferencia entre una evacuación desorganizada y una que sea segura y exitosa."
+
+Marina "En resumen, estar preparados para la supervivencia en tierra después de un aterrizaje forzoso es fundamental. La práctica continua y el entrenamiento adecuado son claves para garantizar la seguridad y el bienestar de los pasajeros y la tripulación en situaciones extremas."
 
 hide iMarina
 with dissolve
