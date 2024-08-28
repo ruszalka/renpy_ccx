@@ -1031,3 +1031,39 @@ Marina "Recoge y analiza el feedback de los pasajeros para identificar áreas de
 Marina "En resumen, el servicio a bordo para los TCPs involucra una combinación de preparación, atención al cliente y gestión eficiente de recursos. "
 Marina "La clave es ofrecer un servicio amigable y profesional mientras se garantiza la comodidad y seguridad de los pasajeros durante el vuelo."
 Marina "¡Gracias por su atención, y espero que esta guía te ayude a brindar un excelente servicio a bordo!"
+
+hide iMarina
+with dissolve
+
+#Modulo 18 - Ditching, simulacro de evacuación y técnicas de supervivencia en el mar, realizado en piscina cerrada climatizada.
+
+show iMarina at left
+with fade
+
+Marina "¡Bienvenidos! Hoy quiero hablarles de un aspecto crucial en la formación de los Tripulantes de Cabina de Pasajeros (TCPs), uno que puede marcar la diferencia entre la vida y la muerte en situaciones extremas: el entrenamiento en ditching y simulacros de evacuación."
+Marina "Estos entrenamientos no son solo una formalidad; son una parte esencial de la preparación para emergencias y se llevan a cabo en entornos controlados, como piscinas cerradas climatizadas, para asegurar que la tripulación esté lista para enfrentar cualquier situación crítica en el agua."
+Marina "Primero, enfoquémonos en el ditching, que es el aterrizaje forzoso en el agua. Imaginemos el escenario: un avión está en una emergencia que requiere un aterrizaje en el mar."
+Marina "La preparación para este tipo de evento empieza mucho antes del vuelo. Los TCPs deben conocer al detalle los procedimientos de evacuación para un aterrizaje forzoso en el agua. "
+Marina "Esto incluye la localización precisa de las salidas de emergencia, el acceso a las balsas salvavidas y los equipos de flotación."
+Marina "Es vital que cada miembro de la tripulación esté familiarizado con el equipo de flotación disponible, como los chalecos salvavidas y las balsas inflables, y que sepa cómo utilizar estos dispositivos de manera correcta y eficaz."
+Marina "Durante el aterrizaje en el agua, el rol de los TCPs se vuelve aún más crítico. Primero, es necesario dar instrucciones claras a los pasajeros."
+Marina "Los TCPs deben explicar cómo prepararse para el aterrizaje en el agua, instruir sobre el uso de chalecos salvavidas y guiar a los pasajeros a adoptar la posición de braceo para minimizar el impacto."
+Marina "Al momento del impacto, deben seguir los procedimientos de seguridad establecidos para asegurar una evacuación ordenada."
+Marina "Una vez que el avión está estabilizado, la evacuación hacia las balsas salvavidas debe ser rápida y organizada. "
+Marina "Cada segundo cuenta, y es esencial que todos los pasajeros salgan de la aeronave de manera efectiva, utilizando las salidas de emergencia y los equipos de flotación de forma eficiente."
+Marina "Ahora, pasemos a los simulacros de evacuación, que son igualmente importantes. La preparación para estos simulacros comienza con un profundo conocimiento del avión. "
+Marina "Los TCPs deben familiarizarse con el diseño del avión, las ubicaciones de las salidas de emergencia, las escaleras de evacuación y las balsas salvavidas. "
+Marina "Durante el simulacro, realizado en una piscina cerrada climatizada, los TCPs practican la evacuación rápida y segura del avión. "
+Marina " Estos simulacros imitan situaciones reales de emergencia en el agua, y permiten a los TCPs practicar la evacuación utilizando balsas salvavidas y asumir diferentes roles y responsabilidades, desde la supervisión de los pasajeros hasta la coordinación de la salida de emergencia."
+Marina "Es crucial realizar una evaluación posterior al simulacro. Esto permite identificar áreas de mejora y ajustar procedimientos según sea necesario, garantizando que cada aspecto de la evacuación se maneje con la máxima eficiencia."
+Marina "La capacitación también incluye técnicas de supervivencia en el mar. Saber cómo usar los equipos de flotación es vital. Los TCPs deben aprender a inflar y ajustar correctamente los chalecos salvavidas, asegurándose de que proporcionen la flotación adecuada."
+Marina "Las balsas salvavidas también deben ser manejadas con destreza: desde el inflado y lanzamiento hasta el abordaje y mantenimiento de la balsa en condiciones óptimas."
+Marina "En el agua, la flotación y orientación son esenciales. Los TCPs practican técnicas para mantenerse a flote, mantener la cabeza por encima del agua y conservar energía."
+Marina "Además, deben estar capacitados en el uso de señales de emergencia, como bengalas, luces de emergencia y silbatos, para atraer la atención y solicitar ayuda."
+Marina "La comunicación y coordinación entre supervivientes también es clave. Los TCPs deben saber cómo mantener la calma, coordinarse con otros supervivientes y comunicarse claramente con la tripulación y los equipos de rescate."
+Marina "Finalmente, el reentrenamiento y la revisión de procedimientos son cruciales. La participación en sesiones de reentrenamiento periódicas asegura que las habilidades se mantengan actualizadas y que los procedimientos se ajusten a las mejores prácticas y normativas vigentes."
+Marina "En resumen, el entrenamiento en ditching, los simulacros de evacuación y las técnicas de supervivencia en el mar son esenciales para preparar a los TCPs para enfrentar emergencias en el agua."
+Marina "La práctica constante en entornos controlados asegura que, en caso de una emergencia real, los TCPs puedan responder de manera efectiva y segura, protegiendo así la vida de los pasajeros y de la tripulación."
+
+hide iMarina
+with dissolve
