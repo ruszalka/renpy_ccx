@@ -1067,3 +1067,35 @@ Marina "La práctica constante en entornos controlados asegura que, en caso de u
 
 hide iMarina
 with dissolve
+
+#Modulo 19 - Combate al fuego y manipulación de extintores
+
+show iMarina at left
+with fade
+
+Marina "Muy buenos días a todos. Hoy vamos a hablar sobre un tema de vital importancia para nuestra seguridad a bordo: el combate al fuego y la manipulación de extintores."
+Marina "Como Tripulantes de Cabina de Pasajeros, ustedes saben que los incendios en un avión pueden representar una amenaza significativa. "
+Marina "Por eso, es fundamental que estemos bien preparados y sepamos cómo actuar en caso de emergencia."
+Marina "Vamos a comenzar repasando los tipos de fuegos que podemos encontrar a bordo. Primero, tenemos los fuegos de Clase A, que involucran materiales sólidos como madera, papel o telas. "
+Marina "Luego, están los fuegos de Clase B, que son aquellos que involucran líquidos inflamables, como gasolina, aceites o alcohol. También tenemos los fuegos de Clase C, que se generan por equipos eléctricos, algo muy relevante en el entorno de una aeronave."
+Marina "Además, existen los fuegos de Clase D, que incluyen metales combustibles como magnesio o sodio, y, aunque menos comunes en aviones, los fuegos de Clase K, que son los que involucran aceites de cocina o grasas."
+Marina "Ahora bien, los riesgos específicos en aeronaves no se limitan a estos tipos de fuego. "
+Marina "Hay que considerar la cantidad de materiales combustibles que tenemos a bordo: plásticos, productos químicos, textiles, entre otros."
+Marina "Además, el equipo eléctrico de la cabina y la cabina de mando puede convertirse en un foco de riesgo en caso de fallos o cortocircuitos."
+Marina "Es aquí donde entra en juego la manipulación adecuada de los extintores. Hay varios tipos que debemos conocer."
+Marina "Por ejemplo, los extintores de agua, que son efectivos para fuegos de Clase A, pero no deben utilizarse en fuegos de Clase B o C, ya que podrían propagar el fuego o causar cortocircuitos. "
+Marina "Los extintores de espuma son útiles tanto para fuegos de Clase A como B, ya que la espuma sofoca las llamas y previene la liberación de vapores inflamables."
+Marina "Por otro lado, los extintores de CO2 son eficaces para fuegos de Clase B y C. El CO2 desplaza el oxígeno y apaga el fuego sin dejar residuos. Sin embargo, no se recomienda su uso en fuegos de Clase A porque no enfrían el material combustible."
+Marina "Finalmente, tenemos los extintores de polvo seco (ABC), que son eficaces para fuegos de Clase A, B y C, ya que interfieren con la reacción química del fuego."
+Marina "Cuando usamos un extintor, es crucial seguir el método PASS: P de “Pull”, tirar del pasador para desbloquear el extintor; A de “Aim”, apuntar la boquilla hacia la base del fuego; S de “Squeeze”, apretar el mango para liberar el agente extintor; y S de “Sweep”, mover la boquilla de lado a lado para cubrir toda la base del fuego."
+Marina "En cuanto a los procedimientos de combate al fuego a bordo, lo primero es la detección y notificación. Es fundamental identificar rápidamente la fuente del fuego y evaluar su gravedad."
+Marina "Si es pequeño, intentamos apagarlo con el extintor adecuado. Si no, seguimos el procedimiento de evacuación. Y recuerden, siempre hay que informar de inmediato a la cabina de mando para coordinar la respuesta y preparar una posible evacuación."
+Marina "En caso de que el fuego no pueda ser controlado, evaluamos los riesgos, aseguramos a los pasajeros, y utilizamos el extintor adecuado. Si el extintor se agota o no logramos controlar el fuego, buscamos ayuda y seguimos los procedimientos de evacuación."
+Marina "Por último, la capacitación y el reentrenamiento son esenciales. Participar en simulacros regulares de combate al fuego es vital para mantener nuestras habilidades y conocimientos al día."
+Marina "Además, realizar pruebas de competencia y recibir retroalimentación nos ayuda a mejorar continuamente."
+Marina "En resumen, el combate al fuego y la manipulación de extintores son habilidades que deben ser parte de nuestro día a día como TCPs."
+Marina "Entrenarnos regularmente nos prepara para proteger a los pasajeros y a la tripulación de manera efectiva en caso de un incendio a bordo."
+Marina "¡Así que sigan practicando, manténganse informados y siempre listos para cualquier eventualidad!"
+
+hide iMarina
+with dissolve
