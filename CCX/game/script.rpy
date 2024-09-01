@@ -10,23 +10,66 @@ label start:
     image arbol = "bg-tree.png"
     scene arbol
 
-"Todo comenzó en la pandemia"
-"No porque haya cambiado nada estructuralmente, mas bien todo lo contrario"
-"Darme cuenta que venia llevando los ultimos años de mi vida como una persona en confinamiento, me hizo pensar lo poco que aprovechaba mi libertad cuando la tenia."
-"Al principio pensaba que sería tarea fácil, el no tener que inventar excusas para cancelar planes y no salir bajaba mucho la fricción de mis interacciones sociales"
-"A final de cuenta, todos estabamos resguardados."
-"Pero a las pocas semanas, levantarme y solo sentarme a la compu para trabajar y distenderme, empezó a pesar."
-"Mi propio hogar era mi prisión y la razón de mi emergente claustrofobia"
-"Los meses que tuve mis movimientos restringidos a 75 metros cuadrados, pero esta vez contra mi voluntad, me hicieron darme cuenta de lo que necesitaba."
-"Necesitaba salir al mundo"
-"Empece a ver videos de otros lugares, en principio para entender como lo estaban viviendo los demas, después simplemente para ver como vivian sus vidas alli"
-"Y termine en un bucle de videos de azafatas que habian sido despedidas, tambien por la pandemia"
-"Y como extrañaban sus vidas a 40.000 pies de altura"
-"Creo que desde que todo volvió a la normalidad, nadie enteramente lo hizo"
-"Y por esa misma razón, me inscribí al proceso de selección de azafatas de la mayor aerolinea de mi pais"
-"El mundo empieza a curarse, y las aerolineas retoman el viaje en sus rutas aereas"
-"Quiero saber si estoy preparada para esa vida"
-"Preparada para conocer al mundo"
+"Todo comenzó durante la pandemia."
+"No porque algo hubiera cambiado de forma dramática, sino precisamente porque nada había cambiado."
+"De repente, me di cuenta de que había estado viviendo como si estuviera en confinamiento mucho antes de que el confinamiento fuera real."
+"Y, entonces, me golpeó: ¿qué había hecho con mi libertad cuando realmente la tenía?"
+"¿Cuánto tiempo había pasado desde la última vez que sentí esa chispa de vida, ese deseo de explorar lo desconocido?"
+
+"Al principio, pensé que sería fácil."
+"No tener que inventar excusas para cancelar planes."
+"No tener que forzar sonrisas o buscar algo interesante que decir."
+"La verdad, me gustaba la idea de no tener que enfrentarme al mundo exterior cada día."
+"Era como si, de repente, todos estuviéramos en mi misma página, compartiendo el mismo espacio limitado, las mismas restricciones."
+
+"Pero, a medida que pasaban las semanas, la realidad me empezó a pesar."
+"Los días se volvieron monótonos, como un bucle interminable de lo mismo."
+"Levantarme cada mañana para sentarme frente a la computadora."
+"Trabajar, distraerme, todo sin moverme de las mismas cuatro paredes."
+"Mi hogar, que antes sentía como un refugio, se convirtió en una especie de jaula, y la rutina en la cadena que me ataba."
+
+"Los días se convirtieron en semanas, y las semanas en meses."
+"Setenta y cinco metros cuadrados. Esa era la medida de mi vida, mi mundo entero, por meses."
+"Y por primera vez, no era por elección."
+"Fue entonces cuando supe que necesitaba algo más."
+"Necesitaba salir."
+"Salir al mundo."
+"Ver más allá de mi ventana, más allá de lo que conocía."
+
+"Empecé a buscar consuelo en videos de otros lugares."
+"Primero, para ver cómo estaban lidiando los demás con todo esto."
+"Luego, simplemente para imaginar cómo sería estar en otro lugar, en otra vida."
+"Cada video era una pequeña ventana a un mundo diferente."
+"A un mundo donde la gente seguía adelante, aún en medio de la incertidumbre."
+
+"Y así, terminé viendo videos de azafatas que habían perdido su trabajo debido a la pandemia."
+"Mujeres de todas partes, de diferentes edades, culturas y trayectorias, que contaban cómo extrañaban los cielos abiertos."
+"Las nubes, esa sensación de estar flotando a 40,000 pies de altura."
+"Me encontré escuchando sus historias, una tras otra."
+"Y, poco a poco, algo en mí comenzó a despertar."
+
+"Me pregunté si alguna vez había sentido una pasión así por algo."
+"Y me di cuenta de que no."
+"Que siempre había dejado que el miedo me detuviera, que había permitido que las excusas me mantuvieran en mi zona de confort."
+
+"Desde que todo volvió a la 'normalidad', me di cuenta de que nada es realmente igual."
+"Nadie lo es."
+"Hay algo en el aire, una especie de nostalgia por lo que fuimos antes de todo esto."
+"Mezclada con una curiosidad sobre lo que podríamos ser ahora."
+
+"Y, quizás por esa misma razón, decidí dar un salto."
+"Me inscribí en el proceso de selección para ser azafata en la aerolínea más grande del país."
+"El mundo está empezando a sanar."
+"Los aviones vuelven a surcar los cielos."
+
+"Y yo… quiero saber si estoy lista para esa vida."
+"Una vida que me lleve a lugares que aún no he visto, a conocer personas que aún no he encontrado."
+"Quiero sentir esa adrenalina, esa emoción de lo desconocido."
+"¿Estoy preparada para dejar atrás mis miedos y lanzarme al vacío?"
+"Solo hay una forma de saberlo."
+
+"Quiero conocer el mundo."
+"Y esta vez, no pienso desperdiciar mi oportunidad."
 
 scene arbol
 with dissolve
